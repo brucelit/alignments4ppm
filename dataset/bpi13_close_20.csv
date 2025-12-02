@@ -1,0 +1,295 @@
+CaseID,trace,length
+1-694794065,"<BOS>, Accepted, Accepted, Accepted, Completed, <EOS>",4
+1-694808152,"<BOS>, Accepted, Completed, <EOS>",2
+1-694828073,"<BOS>, Accepted, Queued, Accepted, Accepted, Accepted, Accepted, Accepted, Queued, Accepted, Accepted, Accepted, Accepted, Queued, Accepted, Accepted, Completed, <EOS>",16
+1-694899814,"<BOS>, Queued, Accepted, Completed, <EOS>",3
+1-694923791,"<BOS>, Accepted, Completed, <EOS>",2
+1-695030407,"<BOS>, Accepted, Completed, <EOS>",2
+1-695241661,"<BOS>, Accepted, Completed, <EOS>",2
+1-695258011,"<BOS>, Accepted, Accepted, Accepted, Accepted, Completed, <EOS>",5
+1-695309312,"<BOS>, Accepted, Completed, <EOS>",2
+1-695316021,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-695425289,"<BOS>, Accepted, Accepted, Accepted, Accepted, Completed, <EOS>",5
+1-695486321,"<BOS>, Accepted, Queued, Accepted, Queued, Accepted, Completed, <EOS>",6
+1-695616474,"<BOS>, Accepted, Completed, <EOS>",2
+1-695748265,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-695801720,"<BOS>, Accepted, Completed, <EOS>",2
+1-695946177,"<BOS>, Accepted, Completed, <EOS>",2
+1-696057890,"<BOS>, Accepted, Completed, <EOS>",2
+1-696097603,"<BOS>, Accepted, Queued, Accepted, Accepted, Queued, Accepted, Accepted, Accepted, Queued, Accepted, Accepted, Completed, <EOS>",12
+1-696205828,"<BOS>, Accepted, Completed, <EOS>",2
+1-696616111,"<BOS>, Accepted, Completed, <EOS>",2
+1-696680265,"<BOS>, Accepted, Queued, Accepted, Queued, Accepted, Accepted, Accepted, Completed, <EOS>",8
+1-696695427,"<BOS>, Accepted, Completed, <EOS>",2
+1-696714411,"<BOS>, Queued, Queued, Accepted, Completed, <EOS>",4
+1-696835891,"<BOS>, Queued, Accepted, Queued, Accepted, Completed, <EOS>",5
+1-696839978,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-696881965,"<BOS>, Accepted, Completed, <EOS>",2
+1-696990621,"<BOS>, Accepted, Completed, <EOS>",2
+1-697041731,"<BOS>, Accepted, Accepted, Completed, Accepted, Completed, <EOS>",5
+1-697249225,"<BOS>, Accepted, Completed, <EOS>",2
+1-697260307,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-697366925,"<BOS>, Accepted, Completed, <EOS>",2
+1-697379551,"<BOS>, Accepted, Completed, <EOS>",2
+1-697458590,"<BOS>, Accepted, Queued, Accepted, Accepted, Queued, Accepted, Accepted, Accepted, Accepted, Accepted, Completed, <EOS>",11
+1-697459701,"<BOS>, Accepted, Accepted, Queued, Accepted, Completed, <EOS>",5
+1-697486903,"<BOS>, Accepted, Completed, <EOS>",2
+1-697578650,"<BOS>, Accepted, Completed, <EOS>",2
+1-697811404,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-697987547,"<BOS>, Accepted, Accepted, Queued, Accepted, Queued, Accepted, Accepted, Completed, <EOS>",8
+1-698044001,"<BOS>, Accepted, Queued, Accepted, Accepted, Accepted, Completed, <EOS>",6
+1-698057087,"<BOS>, Accepted, Completed, <EOS>",2
+1-698077265,"<BOS>, Accepted, Completed, <EOS>",2
+1-698103331,"<BOS>, Accepted, Completed, <EOS>",2
+1-698216063,"<BOS>, Accepted, Queued, Accepted, Accepted, Accepted, Completed, <EOS>",6
+1-698267095,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-698293715,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-698346154,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-698481972,"<BOS>, Accepted, Completed, <EOS>",2
+1-698524631,"<BOS>, Accepted, Completed, <EOS>",2
+1-698751834,"<BOS>, Accepted, Accepted, Accepted, Completed, <EOS>",4
+1-698754281,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-698842669,"<BOS>, Accepted, Queued, Accepted, Accepted, Completed, Accepted, Completed, <EOS>",7
+1-698998499,"<BOS>, Accepted, Queued, Accepted, Queued, Accepted, Queued, Accepted, Accepted, Completed, <EOS>",9
+1-699010040,"<BOS>, Accepted, Completed, <EOS>",2
+1-699103215,"<BOS>, Accepted, Queued, Accepted, Queued, Accepted, Queued, Accepted, Accepted, Queued, Accepted, Queued, Accepted, Accepted, Completed, <EOS>",14
+1-699140595,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-699140847,"<BOS>, Accepted, Completed, <EOS>",2
+1-699345697,"<BOS>, Accepted, Completed, <EOS>",2
+1-699370863,"<BOS>, Accepted, Completed, <EOS>",2
+1-699397256,"<BOS>, Queued, Accepted, Completed, <EOS>",3
+1-699661601,"<BOS>, Accepted, Accepted, Queued, Accepted, Accepted, Queued, Accepted, Completed, <EOS>",8
+1-699690829,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-699737259,"<BOS>, Accepted, Completed, <EOS>",2
+1-700362905,"<BOS>, Accepted, Completed, <EOS>",2
+1-700498223,"<BOS>, Accepted, Queued, Accepted, Accepted, Queued, Accepted, Queued, Accepted, Queued, Accepted, Accepted, Queued, Accepted, Accepted, Queued, Accepted, Accepted, Accepted, Completed, <EOS>",19
+1-700566882,"<BOS>, Accepted, Accepted, Accepted, Completed, Accepted, Completed, <EOS>",6
+1-700746442,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-700842031,"<BOS>, Accepted, Queued, Accepted, Accepted, Accepted, Accepted, Completed, <EOS>",7
+1-700896142,"<BOS>, Accepted, Completed, <EOS>",2
+1-701042928,"<BOS>, Accepted, Completed, <EOS>",2
+1-701429911,"<BOS>, Accepted, Accepted, Accepted, Accepted, Completed, <EOS>",5
+1-701525462,"<BOS>, Accepted, Completed, <EOS>",2
+1-701555158,"<BOS>, Accepted, Completed, <EOS>",2
+1-701702621,"<BOS>, Accepted, Completed, <EOS>",2
+1-701990311,"<BOS>, Accepted, Completed, <EOS>",2
+1-702103380,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-702103398,"<BOS>, Accepted, Completed, <EOS>",2
+1-702304430,"<BOS>, Accepted, Completed, <EOS>",2
+1-702304580,"<BOS>, Accepted, Completed, <EOS>",2
+1-702378632,"<BOS>, Accepted, Completed, <EOS>",2
+1-702482271,"<BOS>, Accepted, Accepted, Accepted, Queued, Accepted, Completed, <EOS>",6
+1-702501021,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-702501138,"<BOS>, Accepted, Queued, Accepted, Queued, Accepted, Completed, <EOS>",6
+1-702501532,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-702514881,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-702656292,"<BOS>, Accepted, Completed, <EOS>",2
+1-702673026,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-703016242,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-703190797,"<BOS>, Queued, Accepted, Queued, Accepted, Accepted, Queued, Accepted, Queued, Accepted, Queued, Accepted, Completed, <EOS>",12
+1-703242211,"<BOS>, Queued, Accepted, Completed, <EOS>",3
+1-703383433,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-703399394,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-703445951,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-703540157,"<BOS>, Accepted, Queued, Queued, Accepted, Queued, Accepted, Accepted, Queued, Accepted, Queued, Accepted, Queued, Accepted, Accepted, Accepted, Queued, Accepted, Completed, <EOS>",18
+1-703856779,"<BOS>, Accepted, Accepted, Accepted, Completed, <EOS>",4
+1-703964203,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-703964563,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-704226142,"<BOS>, Accepted, Completed, <EOS>",2
+1-704229584,"<BOS>, Accepted, Completed, <EOS>",2
+1-704229602,"<BOS>, Queued, Accepted, Completed, <EOS>",3
+1-704650867,"<BOS>, Accepted, Queued, Accepted, Queued, Accepted, Accepted, Completed, <EOS>",7
+1-704661542,"<BOS>, Accepted, Accepted, Queued, Accepted, Accepted, Completed, <EOS>",6
+1-704703712,"<BOS>, Accepted, Queued, Accepted, Accepted, Accepted, Accepted, Completed, <EOS>",7
+1-704725301,"<BOS>, Accepted, Completed, <EOS>",2
+1-704973871,"<BOS>, Accepted, Queued, Accepted, Accepted, Accepted, Completed, <EOS>",6
+1-704977245,"<BOS>, Accepted, Queued, Queued, Accepted, Queued, Accepted, Completed, <EOS>",7
+1-705821921,"<BOS>, Accepted, Completed, <EOS>",2
+1-705847575,"<BOS>, Accepted, Completed, <EOS>",2
+1-706083257,"<BOS>, Accepted, Completed, <EOS>",2
+1-706226212,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-706866666,"<BOS>, Accepted, Completed, <EOS>",2
+1-706915611,"<BOS>, Accepted, Completed, <EOS>",2
+1-706949124,"<BOS>, Accepted, Completed, <EOS>",2
+1-706959641,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-706963013,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-706982877,"<BOS>, Accepted, Completed, <EOS>",2
+1-706988783,"<BOS>, Accepted, Completed, <EOS>",2
+1-707025161,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-707053152,"<BOS>, Accepted, Completed, <EOS>",2
+1-707293328,"<BOS>, Accepted, Completed, <EOS>",2
+1-707300171,"<BOS>, Accepted, Accepted, Queued, Queued, Accepted, Queued, Accepted, Queued, Accepted, Accepted, Accepted, Accepted, Completed, <EOS>",13
+1-707623601,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-707660543,"<BOS>, Accepted, Queued, Accepted, Accepted, Queued, Accepted, Completed, <EOS>",7
+1-707693471,"<BOS>, Accepted, Completed, <EOS>",2
+1-707704098,"<BOS>, Accepted, Completed, <EOS>",2
+1-707708844,"<BOS>, Accepted, Completed, <EOS>",2
+1-707778891,"<BOS>, Accepted, Completed, <EOS>",2
+1-708121948,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-708131711,"<BOS>, Accepted, Queued, Accepted, Queued, Accepted, Accepted, Completed, <EOS>",7
+1-708581207,"<BOS>, Accepted, Completed, <EOS>",2
+1-708582598,"<BOS>, Accepted, Completed, <EOS>",2
+1-708613661,"<BOS>, Accepted, Accepted, Accepted, Accepted, Completed, <EOS>",5
+1-708716045,"<BOS>, Accepted, Completed, <EOS>",2
+1-708833963,"<BOS>, Accepted, Completed, <EOS>",2
+1-709437431,"<BOS>, Accepted, Completed, <EOS>",2
+1-709461909,"<BOS>, Accepted, Completed, <EOS>",2
+1-709479221,"<BOS>, Accepted, Completed, <EOS>",2
+1-709552565,"<BOS>, Accepted, Queued, Accepted, Accepted, Queued, Accepted, Completed, <EOS>",7
+1-709663551,"<BOS>, Accepted, Accepted, Accepted, Accepted, Queued, Accepted, Accepted, Completed, <EOS>",8
+1-709802751,"<BOS>, Queued, Accepted, Completed, <EOS>",3
+1-709802861,"<BOS>, Accepted, Queued, Accepted, Accepted, Completed, <EOS>",5
+1-710065204,"<BOS>, Accepted, Completed, <EOS>",2
+1-710109531,"<BOS>, Accepted, Completed, <EOS>",2
+1-710114300,"<BOS>, Accepted, Queued, Accepted, Accepted, Queued, Accepted, Queued, Accepted, Queued, Accepted, Completed, <EOS>",11
+1-710269195,"<BOS>, Accepted, Completed, <EOS>",2
+1-712814266,"<BOS>, Accepted, Completed, <EOS>",2
+1-712856449,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-712972277,"<BOS>, Accepted, Completed, <EOS>",2
+1-713106267,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-715479377,"<BOS>, Accepted, Completed, <EOS>",2
+1-715638561,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-715660478,"<BOS>, Accepted, Completed, Accepted, Completed, <EOS>",4
+1-715674227,"<BOS>, Accepted, Completed, <EOS>",2
+1-715703591,"<BOS>, Accepted, Completed, <EOS>",2
+1-715860062,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-716154984,"<BOS>, Queued, Accepted, Completed, <EOS>",3
+1-716571976,"<BOS>, Accepted, Completed, Accepted, Queued, Accepted, Completed, <EOS>",6
+1-717122893,"<BOS>, Accepted, Queued, Accepted, Accepted, Completed, <EOS>",5
+1-717222893,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-717275094,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-717713590,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-717801169,"<BOS>, Accepted, Completed, <EOS>",2
+1-717838591,"<BOS>, Accepted, Completed, <EOS>",2
+1-717852570,"<BOS>, Accepted, Completed, <EOS>",2
+1-718031374,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-718056641,"<BOS>, Queued, Accepted, Completed, <EOS>",3
+1-718132104,"<BOS>, Accepted, Completed, <EOS>",2
+1-718958603,"<BOS>, Accepted, Completed, <EOS>",2
+1-718960811,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-718973785,"<BOS>, Accepted, Queued, Accepted, Accepted, Completed, <EOS>",5
+1-719199254,"<BOS>, Accepted, Accepted, Completed, Accepted, Completed, Accepted, Completed, Accepted, Completed, <EOS>",9
+1-719210927,"<BOS>, Accepted, Completed, <EOS>",2
+1-719517578,"<BOS>, Accepted, Completed, <EOS>",2
+1-719999163,"<BOS>, Accepted, Completed, <EOS>",2
+1-720000146,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-720041655,"<BOS>, Accepted, Completed, <EOS>",2
+1-720069371,"<BOS>, Accepted, Accepted, Accepted, Accepted, Accepted, Accepted, Completed, <EOS>",7
+1-720110557,"<BOS>, Accepted, Completed, <EOS>",2
+1-720457477,"<BOS>, Accepted, Completed, <EOS>",2
+1-722041657,"<BOS>, Accepted, Completed, <EOS>",2
+1-722098557,"<BOS>, Accepted, Completed, <EOS>",2
+1-722201158,"<BOS>, Accepted, Completed, <EOS>",2
+1-722334217,"<BOS>, Accepted, Completed, <EOS>",2
+1-722334434,"<BOS>, Accepted, Completed, <EOS>",2
+1-722674364,"<BOS>, Accepted, Queued, Accepted, Queued, Queued, Accepted, Queued, Accepted, Queued, Accepted, Accepted, Completed, <EOS>",12
+1-722688743,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-722742993,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-726517211,"<BOS>, Accepted, Accepted, Queued, Accepted, Queued, Accepted, Accepted, Accepted, Completed, <EOS>",9
+1-726760342,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-726808501,"<BOS>, Accepted, Completed, <EOS>",2
+1-728461114,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-728470722,"<BOS>, Accepted, Accepted, Queued, Queued, Accepted, Queued, Accepted, Accepted, Accepted, Completed, <EOS>",10
+1-728630851,"<BOS>, Queued, Accepted, Queued, Accepted, Completed, <EOS>",5
+1-728641711,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-728649379,"<BOS>, Accepted, Completed, <EOS>",2
+1-729423803,"<BOS>, Accepted, Completed, <EOS>",2
+1-729440922,"<BOS>, Accepted, Completed, <EOS>",2
+1-729635576,"<BOS>, Accepted, Completed, <EOS>",2
+1-729711756,"<BOS>, Accepted, Completed, <EOS>",2
+1-729826369,"<BOS>, Accepted, Completed, <EOS>",2
+1-729966151,"<BOS>, Accepted, Completed, <EOS>",2
+1-730084841,"<BOS>, Queued, Accepted, Completed, <EOS>",3
+1-730084875,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-730644447,"<BOS>, Accepted, Completed, <EOS>",2
+1-730923421,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-730961258,"<BOS>, Accepted, Completed, <EOS>",2
+1-731792664,"<BOS>, Accepted, Completed, <EOS>",2
+1-731908702,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-732289301,"<BOS>, Accepted, Queued, Accepted, Accepted, Accepted, Accepted, Completed, <EOS>",7
+1-732357301,"<BOS>, Accepted, Accepted, Accepted, Completed, <EOS>",4
+1-733169018,"<BOS>, Accepted, Completed, <EOS>",2
+1-733336456,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-733451291,"<BOS>, Accepted, Completed, <EOS>",2
+1-733562890,"<BOS>, Queued, Accepted, Queued, Accepted, Accepted, Accepted, Completed, <EOS>",7
+1-733649220,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-734831769,"<BOS>, Accepted, Completed, <EOS>",2
+1-734921423,"<BOS>, Accepted, Completed, <EOS>",2
+1-735185827,"<BOS>, Accepted, Accepted, Accepted, Completed, <EOS>",4
+1-735265367,"<BOS>, Accepted, Completed, <EOS>",2
+1-735265425,"<BOS>, Accepted, Completed, <EOS>",2
+1-735881798,"<BOS>, Accepted, Accepted, Accepted, Accepted, Completed, <EOS>",5
+1-736351127,"<BOS>, Accepted, Queued, Accepted, Queued, Accepted, Queued, Accepted, Queued, Accepted, Queued, Accepted, Accepted, Completed, <EOS>",13
+1-736351222,"<BOS>, Accepted, Queued, Accepted, Queued, Accepted, Queued, Accepted, Queued, Accepted, Queued, Accepted, Accepted, Completed, <EOS>",13
+1-736392818,"<BOS>, Accepted, Completed, <EOS>",2
+1-736474918,"<BOS>, Accepted, Completed, <EOS>",2
+1-736492457,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-737341073,"<BOS>, Queued, Accepted, Queued, Accepted, Completed, <EOS>",5
+1-738626601,"<BOS>, Queued, Accepted, Accepted, Completed, <EOS>",4
+1-738820974,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-739307829,"<BOS>, Accepted, Completed, <EOS>",2
+1-739606545,"<BOS>, Accepted, Completed, <EOS>",2
+1-739695919,"<BOS>, Accepted, Queued, Queued, Accepted, Accepted, Queued, Queued, Accepted, Completed, Accepted, Completed, <EOS>",11
+1-740409214,"<BOS>, Accepted, Completed, <EOS>",2
+1-740676462,"<BOS>, Accepted, Completed, <EOS>",2
+1-741495923,"<BOS>, Accepted, Accepted, Accepted, Completed, <EOS>",4
+1-741753047,"<BOS>, Accepted, Completed, <EOS>",2
+1-741758638,"<BOS>, Accepted, Completed, <EOS>",2
+1-741807021,"<BOS>, Accepted, Completed, <EOS>",2
+1-741987554,"<BOS>, Accepted, Accepted, Accepted, Accepted, Accepted, Queued, Accepted, Completed, <EOS>",8
+1-741995108,"<BOS>, Accepted, Accepted, Accepted, Accepted, Accepted, Completed, <EOS>",6
+1-741995344,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-742216614,"<BOS>, Queued, Accepted, Completed, <EOS>",3
+1-742296921,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-742383139,"<BOS>, Accepted, Accepted, Accepted, Completed, <EOS>",4
+1-742397728,"<BOS>, Accepted, Completed, <EOS>",2
+1-742833777,"<BOS>, Completed, <EOS>",1
+1-742929685,"<BOS>, Accepted, Accepted, Completed, <EOS>",3
+1-743659911,"<BOS>, Accepted, Completed, <EOS>",2
+1-743923075,"<BOS>, Accepted, Completed, <EOS>",2
+1-744020867,"<BOS>, Accepted, Completed, <EOS>",2
+1-744096281,"<BOS>, Accepted, Completed, <EOS>",2
+1-744436513,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-744436815,"<BOS>, Accepted, Completed, <EOS>",2
+1-744436853,"<BOS>, Accepted, Completed, <EOS>",2
+1-744771526,"<BOS>, Accepted, Completed, <EOS>",2
+1-744812279,"<BOS>, Accepted, Completed, <EOS>",2
+1-744867338,"<BOS>, Accepted, Completed, <EOS>",2
+1-744961184,"<BOS>, Accepted, Completed, <EOS>",2
+1-744961783,"<BOS>, Accepted, Completed, <EOS>",2
+1-745176353,"<BOS>, Accepted, Completed, <EOS>",2
+1-745323752,"<BOS>, Accepted, Completed, <EOS>",2
+1-745528120,"<BOS>, Accepted, Completed, <EOS>",2
+1-745590142,"<BOS>, Accepted, Completed, <EOS>",2
+1-745630444,"<BOS>, Accepted, Completed, <EOS>",2
+1-745791842,"<BOS>, Accepted, Completed, <EOS>",2
+1-745941359,"<BOS>, Accepted, Queued, Accepted, Accepted, Completed, <EOS>",5
+1-746011641,"<BOS>, Accepted, Completed, <EOS>",2
+1-746123906,"<BOS>, Accepted, Completed, <EOS>",2
+1-746191809,"<BOS>, Accepted, Completed, <EOS>",2
+1-746205481,"<BOS>, Accepted, Queued, Accepted, Accepted, Accepted, Completed, <EOS>",6
+1-746374026,"<BOS>, Accepted, Completed, <EOS>",2
+1-746662247,"<BOS>, Accepted, Completed, <EOS>",2
+1-746662619,"<BOS>, Accepted, Completed, <EOS>",2
+1-746969187,"<BOS>, Accepted, Completed, <EOS>",2
+1-746969236,"<BOS>, Accepted, Completed, <EOS>",2
+1-747147608,"<BOS>, Accepted, Completed, <EOS>",2
+1-747373035,"<BOS>, Accepted, Completed, <EOS>",2
+1-747680998,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-747810698,"<BOS>, Accepted, Completed, <EOS>",2
+1-748204098,"<BOS>, Accepted, Completed, <EOS>",2
+1-748384181,"<BOS>, Accepted, Completed, <EOS>",2
+1-748438405,"<BOS>, Accepted, Completed, <EOS>",2
+1-748680387,"<BOS>, Accepted, Completed, <EOS>",2
+1-748850514,"<BOS>, Accepted, Completed, <EOS>",2
+1-749012057,"<BOS>, Accepted, Queued, Accepted, Completed, <EOS>",4
+1-749747547,"<BOS>, Accepted, Completed, <EOS>",2
+1-750161066,"<BOS>, Accepted, Accepted, Accepted, Completed, <EOS>",4
+1-751002678,"<BOS>, Accepted, Completed, <EOS>",2
+1-751006831,"<BOS>, Accepted, Completed, Accepted, Completed, Accepted, Accepted, Accepted, Completed, <EOS>",8
+1-751378836,"<BOS>, Accepted, Completed, <EOS>",2
+1-751622091,"<BOS>, Queued, Accepted, Completed, <EOS>",3
+1-752067921,"<BOS>, Accepted, Accepted, Queued, Accepted, Completed, <EOS>",5
+1-752134249,"<BOS>, Accepted, Completed, <EOS>",2
+1-752600115,"<BOS>, Accepted, Completed, <EOS>",2
+1-752835764,"<BOS>, Accepted, Completed, <EOS>",2

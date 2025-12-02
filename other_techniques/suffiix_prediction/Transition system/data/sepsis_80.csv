@@ -1,0 +1,842 @@
+CaseID,trace,length
+A,"<BOS>, ER Registration, Leucocytes, CRP, LacticAcid, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",22
+C,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",14
+D,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+F,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, IV Liquid, Admission NC, Release A, <EOS>",10
+G,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, LacticAcid, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Release A, <EOS>",12
+H,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, Admission IC, Admission NC, CRP, Leucocytes, CRP, Admission NC, Release B, <EOS>",13
+I,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Antibiotics, Leucocytes, CRP, LacticAcid, Admission NC, Leucocytes, CRP, Release A, <EOS>",11
+J,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Release A, <EOS>",11
+K,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, IV Liquid, CRP, Leucocytes, Release A, Return ER, <EOS>",16
+L,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",15
+M,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+N,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, Admission NC, IV Liquid, IV Antibiotics, CRP, Leucocytes, Release A, <EOS>",12
+O,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, Release A, Return ER, <EOS>",11
+P,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+Q,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+S,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Admission IC, LacticAcid, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",19
+T,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, LacticAcid, Leucocytes, Admission NC, Release B, <EOS>",10
+U,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, Admission NC, Leucocytes, Leucocytes, Leucocytes, Leucocytes, CRP, Release B, <EOS>",11
+V,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, LacticAcid, CRP, IV Antibiotics, Admission IC, LacticAcid, CRP, Leucocytes, LacticAcid, LacticAcid, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",21
+X,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, Admission NC, CRP, Release A, Return ER, <EOS>",13
+Z,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, Admission IC, Admission NC, Admission NC, Release A, <EOS>",10
+BA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, LacticAcid, CRP, Leucocytes, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",13
+CA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, LacticAcid, Leucocytes, <EOS>",8
+DA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, IV Liquid, Leucocytes, CRP, Release C, <EOS>",12
+EA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, CRP, Release A, Return ER, <EOS>",15
+FA,"<BOS>, ER Registration, ER Triage, CRP, LacticAcid, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, <EOS>",8
+GA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission NC, CRP, Leucocytes, Release A, <EOS>",12
+HA,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, Admission NC, Admission NC, Leucocytes, CRP, Release A, <EOS>",11
+IA,"<BOS>, IV Liquid, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, <EOS>",8
+JA,"<BOS>, ER Registration, ER Sepsis Triage, IV Antibiotics, ER Triage, Leucocytes, LacticAcid, CRP, Admission NC, Admission NC, CRP, LacticAcid, Leucocytes, Release A, Return ER, <EOS>",14
+KA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, LacticAcid, Leucocytes, Admission NC, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",16
+MA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",14
+OA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, LacticAcid, CRP, Leucocytes, Leucocytes, CRP, LacticAcid, <EOS>",11
+RA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+SA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",14
+TA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, Admission NC, CRP, Leucocytes, CRP, Release A, <EOS>",10
+UA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, LacticAcid, Release A, <EOS>",11
+VA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Admission NC, Release A, <EOS>",13
+WA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Admission NC, Admission NC, Release A, Return ER, <EOS>",8
+XA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+YA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, <EOS>",6
+ZA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, <EOS>",8
+AB,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, <EOS>",8
+BB,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, <EOS>",6
+CB,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, CRP, Release A, <EOS>",14
+DB,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, <EOS>",12
+EB,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, <EOS>",8
+FB,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, Leucocytes, LacticAcid, <EOS>",8
+GB,"<BOS>, ER Registration, Leucocytes, LacticAcid, CRP, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+HB,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Release A, <EOS>",15
+IB,"<BOS>, ER Registration, Leucocytes, CRP, LacticAcid, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, Admission NC, CRP, Leucocytes, Release A, <EOS>",14
+JB,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, <EOS>",8
+KB,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, IV Liquid, Admission NC, Release A, Return ER, <EOS>",11
+LB,"<BOS>, ER Registration, ER Triage, LacticAcid, CRP, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Release B, <EOS>",19
+NB,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, LacticAcid, Admission NC, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Release A, <EOS>",21
+QB,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",16
+RB,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, Release A, <EOS>",7
+SB,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, CRP, LacticAcid, Admission NC, CRP, Admission NC, CRP, Release A, Return ER, <EOS>",14
+TB,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, Admission NC, Release A, Return ER, <EOS>",9
+UB,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, <EOS>",9
+XB,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, LacticAcid, Release B, <EOS>",11
+ZB,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Antibiotics, Admission NC, IV Liquid, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",16
+AC,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",13
+DC,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Release A, Return ER, <EOS>",12
+EC,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Release A, <EOS>",17
+FC,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, Release A, <EOS>",7
+GC,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, CRP, LacticAcid, Admission NC, CRP, Leucocytes, Release A, <EOS>",12
+HC,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+IC,"<BOS>, ER Triage, ER Registration, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, CRP, LacticAcid, Admission NC, Leucocytes, Release A, Return ER, <EOS>",12
+JC,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, CRP, LacticAcid, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",15
+KC,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Release A, <EOS>",13
+LC,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, Admission NC, CRP, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",21
+MC,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",14
+NC,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, IV Antibiotics, IV Liquid, <EOS>",7
+OC,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, CRP, CRP, Leucocytes, LacticAcid, Admission IC, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",22
+PC,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+SC,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Antibiotics, IV Liquid, LacticAcid, <EOS>",9
+TC,"<BOS>, ER Registration, IV Liquid, ER Triage, ER Sepsis Triage, IV Antibiotics, CRP, LacticAcid, Leucocytes, Admission IC, CRP, LacticAcid, Leucocytes, CRP, Leucocytes, LacticAcid, LacticAcid, CRP, Leucocytes, Leucocytes, CRP, LacticAcid, Admission NC, Release A, Return ER, <EOS>",24
+UC,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, IV Antibiotics, Admission NC, Admission IC, LacticAcid, CRP, Leucocytes, Leucocytes, CRP, LacticAcid, LacticAcid, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, LacticAcid, Leucocytes, LacticAcid, CRP, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",32
+WC,"<BOS>, IV Liquid, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, Admission NC, Release A, Return ER, <EOS>",12
+XC,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, LacticAcid, Leucocytes, CRP, <EOS>",8
+YC,"<BOS>, CRP, Leucocytes, ER Registration, ER Triage, Leucocytes, CRP, ER Sepsis Triage, IV Liquid, IV Antibiotics, <EOS>",9
+ZC,"<BOS>, ER Registration, LacticAcid, CRP, Leucocytes, ER Triage, ER Sepsis Triage, LacticAcid, LacticAcid, IV Liquid, IV Antibiotics, <EOS>",10
+AD,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Admission IC, Leucocytes, LacticAcid, CRP, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, LacticAcid, CRP, LacticAcid, Leucocytes, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",29
+CD,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, <EOS>",8
+DD,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, Admission NC, Release B, <EOS>",8
+ED,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, Admission NC, Leucocytes, Leucocytes, CRP, CRP, CRP, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, CRP, Admission NC, Admission NC, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",33
+FD,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, CRP, Leucocytes, LacticAcid, <EOS>",11
+GD,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release C, <EOS>",14
+ID,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+JD,"<BOS>, ER Registration, LacticAcid, Leucocytes, CRP, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",14
+KD,"<BOS>, ER Sepsis Triage, ER Registration, ER Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission IC, LacticAcid, CRP, CRP, LacticAcid, Leucocytes, Admission NC, Release A, Return ER, <EOS>",17
+MD,"<BOS>, ER Registration, ER Triage, CRP, LacticAcid, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, Return ER, <EOS>",15
+ND,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, Admission NC, IV Liquid, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, Release A, <EOS>",16
+OD,"<BOS>, ER Registration, CRP, Leucocytes, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission IC, LacticAcid, CRP, Leucocytes, LacticAcid, LacticAcid, Leucocytes, CRP, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, LacticAcid, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, Leucocytes, LacticAcid, CRP, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, LacticAcid, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, Leucocytes, CRP, LacticAcid, LacticAcid, Leucocytes, CRP, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, LacticAcid, CRP, LacticAcid, Leucocytes, LacticAcid, CRP, Leucocytes, Leucocytes, CRP, LacticAcid, LacticAcid, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, LacticAcid, Leucocytes, LacticAcid, CRP, CRP, Leucocytes, LacticAcid, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, LacticAcid, CRP, LacticAcid, Leucocytes, CRP, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, LacticAcid, LacticAcid, CRP, Leucocytes, Leucocytes, Leucocytes, CRP, LacticAcid, CRP, LacticAcid, Leucocytes, Release B, <EOS>",118
+PD,"<BOS>, ER Registration, Leucocytes, LacticAcid, CRP, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, <EOS>",9
+QD,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, Release B, <EOS>",12
+RD,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, IV Liquid, IV Antibiotics, <EOS>",7
+SD,"<BOS>, ER Registration, ER Triage, CRP, LacticAcid, Leucocytes, ER Sepsis Triage, IV Antibiotics, IV Liquid, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",14
+UD,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, LacticAcid, Leucocytes, CRP, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, CRP, CRP, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Release D, Return ER, <EOS>",31
+XD,"<BOS>, ER Registration, IV Liquid, ER Triage, ER Sepsis Triage, IV Antibiotics, CRP, LacticAcid, Leucocytes, Admission NC, Release A, <EOS>",10
+YD,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, <EOS>",8
+ZD,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, Admission NC, Release A, <EOS>",7
+AE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission IC, Leucocytes, LacticAcid, CRP, Admission NC, Release A, Return ER, <EOS>",18
+BE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, IV Liquid, Admission NC, Leucocytes, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",15
+CE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Release A, <EOS>",11
+DE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, <EOS>",5
+EE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, Release A, <EOS>",7
+GE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",15
+HE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, Leucocytes, CRP, CRP, CRP, Release A, <EOS>",17
+IE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, Release A, <EOS>",7
+JE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, IV Liquid, Admission NC, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, Return ER, <EOS>",16
+KE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Antibiotics, IV Liquid, Admission NC, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",16
+LE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Antibiotics, IV Liquid, Admission NC, Leucocytes, CRP, Release B, <EOS>",12
+ME,"<BOS>, ER Registration, ER Triage, CRP, LacticAcid, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",15
+NE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, <EOS>",5
+OE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+QE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission IC, CRP, LacticAcid, Leucocytes, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",21
+RE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, Leucocytes, LacticAcid, IV Antibiotics, <EOS>",8
+SE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, Release A, <EOS>",10
+UE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, CRP, LacticAcid, Admission NC, CRP, Leucocytes, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",19
+WE,"<BOS>, ER Registration, ER Triage, CRP, LacticAcid, Leucocytes, ER Sepsis Triage, Admission IC, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Admission NC, Release A, Return ER, <EOS>",17
+XE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, LacticAcid, CRP, <EOS>",8
+YE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, Release A, <EOS>",13
+ZE,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Release B, <EOS>",16
+AF,"<BOS>, ER Registration, CRP, Leucocytes, ER Triage, ER Sepsis Triage, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Release A, Return ER, <EOS>",17
+BF,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+CF,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, CRP, CRP, Leucocytes, Release A, Return ER, <EOS>",27
+DF,"<BOS>, ER Registration, ER Triage, CRP, Leucocytes, ER Sepsis Triage, <EOS>",5
+EF,"<BOS>, ER Registration, LacticAcid, CRP, Leucocytes, ER Triage, ER Sepsis Triage, IV Antibiotics, IV Liquid, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",14
+FF,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, <EOS>",8
+GF,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission IC, Leucocytes, CRP, LacticAcid, CRP, LacticAcid, Leucocytes, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, LacticAcid, Admission NC, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",59
+HF,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, Release A, <EOS>",13
+JF,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, LacticAcid, IV Antibiotics, <EOS>",8
+KF,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Admission NC, CRP, Leucocytes, Release A, <EOS>",15
+LF,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+NF,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",28
+OF,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+PF,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Release A, <EOS>",15
+QF,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",16
+RF,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, <EOS>",9
+TF,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Release A, CRP, Leucocytes, <EOS>",16
+VF,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, Release A, <EOS>",13
+WF,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Antibiotics, IV Liquid, Admission NC, CRP, Leucocytes, CRP, Admission NC, Leucocytes, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",21
+YF,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, LacticAcid, CRP, IV Antibiotics, Admission NC, Admission IC, CRP, LacticAcid, Leucocytes, LacticAcid, Leucocytes, CRP, Admission NC, CRP, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, Leucocytes, CRP, Release A, <EOS>",29
+ZF,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, CRP, LacticAcid, LacticAcid, Admission NC, Admission NC, CRP, Leucocytes, Release A, <EOS>",14
+AG,"<BOS>, ER Sepsis Triage, ER Registration, ER Triage, Leucocytes, CRP, <EOS>",5
+BG,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, Admission NC, Leucocytes, Leucocytes, Admission NC, Release A, <EOS>",10
+CG,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Release A, <EOS>",15
+DG,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Release A, <EOS>",12
+EG,"<BOS>, ER Registration, ER Triage, CRP, Leucocytes, ER Sepsis Triage, <EOS>",5
+HG,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",15
+IG,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, Admission NC, Leucocytes, Leucocytes, Leucocytes, CRP, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, CRP, Leucocytes, Release A, <EOS>",18
+JG,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, LacticAcid, CRP, Admission NC, Leucocytes, Leucocytes, CRP, Release A, <EOS>",13
+KG,"<BOS>, Leucocytes, CRP, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",16
+MG,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Leucocytes, <EOS>",6
+OG,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, Admission NC, Admission NC, Release A, <EOS>",9
+PG,"<BOS>, ER Registration, IV Liquid, ER Sepsis Triage, IV Antibiotics, ER Triage, LacticAcid, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+RG,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, CRP, CRP, CRP, CRP, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",33
+SG,"<BOS>, ER Registration, ER Triage, CRP, Leucocytes, ER Sepsis Triage, <EOS>",5
+UG,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, <EOS>",8
+VG,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, Admission NC, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",16
+XG,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, <EOS>",8
+YG,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, LacticAcid, Leucocytes, CRP, Admission NC, Admission NC, Leucocytes, CRP, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, CRP, Leucocytes, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, Release D, <EOS>",29
+ZG,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, IV Liquid, Release B, <EOS>",10
+AH,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, <EOS>",11
+BH,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Antibiotics, IV Liquid, Admission NC, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",20
+DH,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, IV Antibiotics, Admission NC, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Release A, Return ER, <EOS>",15
+EH,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Release A, <EOS>",10
+GH,"<BOS>, ER Registration, ER Triage, CRP, LacticAcid, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, <EOS>",8
+IH,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, Admission NC, IV Liquid, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",17
+JH,"<BOS>, ER Registration, ER Sepsis Triage, ER Triage, IV Liquid, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission NC, Admission NC, Release A, Return ER, <EOS>",12
+KH,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, CRP, Leucocytes, Release A, <EOS>",12
+MH,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, <EOS>",5
+NH,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+OH,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Antibiotics, IV Liquid, Admission NC, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",16
+PH,"<BOS>, ER Registration, CRP, LacticAcid, Leucocytes, IV Liquid, ER Triage, ER Sepsis Triage, IV Antibiotics, <EOS>",8
+RH,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, Leucocytes, <EOS>",5
+SH,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Antibiotics, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",12
+TH,"<BOS>, ER Registration, ER Triage, CRP, LacticAcid, Leucocytes, IV Liquid, ER Sepsis Triage, IV Antibiotics, Admission NC, CRP, LacticAcid, CRP, Release A, <EOS>",13
+VH,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+WH,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, <EOS>",5
+XH,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Antibiotics, IV Liquid, Admission NC, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Leucocytes, Release A, <EOS>",22
+YH,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, Admission NC, Release A, <EOS>",7
+ZH,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Admission NC, CRP, Release A, <EOS>",13
+AI,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",15
+BI,"<BOS>, ER Registration, ER Triage, CRP, Leucocytes, ER Sepsis Triage, IV Antibiotics, Admission NC, LacticAcid, Admission NC, Release B, <EOS>",10
+DI,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, <EOS>",12
+EI,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, CRP, Release D, Return ER, <EOS>",14
+FI,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, <EOS>",8
+GI,"<BOS>, Leucocytes, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, Admission NC, Leucocytes, Release A, <EOS>",12
+HI,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, Admission NC, Release A, Return ER, <EOS>",9
+II,"<BOS>, ER Registration, ER Triage, Leucocytes, LacticAcid, CRP, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",13
+JI,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, LacticAcid, CRP, <EOS>",8
+LI,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",14
+MI,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, LacticAcid, CRP, IV Antibiotics, <EOS>",8
+NI,"<BOS>, ER Registration, ER Triage, CRP, LacticAcid, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",15
+PI,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, Admission NC, IV Liquid, IV Antibiotics, CRP, Release A, <EOS>",11
+RI,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",16
+SI,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Admission NC, CRP, Leucocytes, Leucocytes, CRP, CRP, Release A, <EOS>",18
+VI,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, LacticAcid, CRP, Leucocytes, Admission NC, Admission NC, Leucocytes, CRP, CRP, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",18
+XI,"<BOS>, ER Registration, ER Triage, CRP, Leucocytes, LacticAcid, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Admission IC, CRP, LacticAcid, Leucocytes, LacticAcid, Leucocytes, CRP, LacticAcid, Admission IC, LacticAcid, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, LacticAcid, Admission NC, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",39
+YI,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release A, <EOS>",14
+ZI,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission NC, Leucocytes, Leucocytes, Leucocytes, CRP, Admission NC, Leucocytes, CRP, CRP, Release A, <EOS>",18
+AJ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, Admission NC, CRP, Leucocytes, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",25
+CJ,"<BOS>, Leucocytes, CRP, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, Admission NC, Admission NC, CRP, Leucocytes, CRP, Leucocytes, CRP, Admission NC, Release B, <EOS>",25
+EJ,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Antibiotics, Admission NC, CRP, Leucocytes, Release A, <EOS>",11
+FJ,"<BOS>, ER Registration, ER Triage, LacticAcid, CRP, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",13
+GJ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, LacticAcid, Leucocytes, Admission IC, Leucocytes, CRP, LacticAcid, LacticAcid, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, Admission NC, Release A, Return ER, <EOS>",21
+HJ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",15
+IJ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release A, <EOS>",16
+JJ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, <EOS>",12
+KJ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, LacticAcid, Release A, <EOS>",10
+LJ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Admission NC, CRP, Leucocytes, CRP, Admission NC, Admission NC, CRP, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, CRP, Admission NC, Release D, <EOS>",31
+MJ,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, CRP, Release A, <EOS>",13
+NJ,"<BOS>, ER Registration, ER Triage, CRP, LacticAcid, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",14
+OJ,"<BOS>, ER Registration, Leucocytes, CRP, LacticAcid, ER Triage, ER Sepsis Triage, IV Antibiotics, Admission IC, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, CRP, Leucocytes, LacticAcid, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",23
+PJ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, LacticAcid, CRP, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Release B, <EOS>",19
+QJ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, IV Liquid, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",14
+RJ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, <EOS>",7
+SJ,"<BOS>, ER Registration, ER Triage, LacticAcid, CRP, Leucocytes, IV Liquid, ER Sepsis Triage, Admission NC, IV Antibiotics, CRP, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",16
+TJ,"<BOS>, IV Liquid, ER Registration, ER Triage, ER Sepsis Triage, IV Antibiotics, Leucocytes, LacticAcid, CRP, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",15
+UJ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, Leucocytes, CRP, CRP, CRP, Release A, Return ER, <EOS>",16
+VJ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, Release A, <EOS>",13
+XJ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, Leucocytes, Release A, Return ER, <EOS>",13
+YJ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Release A, <EOS>",12
+ZJ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, LacticAcid, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Admission NC, CRP, Leucocytes, CRP, Release A, <EOS>",16
+AK,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, CRP, Leucocytes, <EOS>",11
+CK,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, <EOS>",5
+DK,"<BOS>, ER Registration, LacticAcid, Leucocytes, CRP, ER Triage, ER Sepsis Triage, IV Antibiotics, IV Liquid, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",13
+EK,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission IC, Leucocytes, CRP, LacticAcid, CRP, LacticAcid, Leucocytes, Leucocytes, LacticAcid, CRP, Admission NC, Release B, <EOS>",20
+HK,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Release C, <EOS>",10
+JK,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, IV Liquid, Admission IC, CRP, LacticAcid, Leucocytes, LacticAcid, LacticAcid, LacticAcid, CRP, LacticAcid, Leucocytes, LacticAcid, LacticAcid, LacticAcid, LacticAcid, LacticAcid, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release A, <EOS>",31
+KK,"<BOS>, ER Registration, ER Triage, LacticAcid, Leucocytes, CRP, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release A, <EOS>",14
+MK,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission IC, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, LacticAcid, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",27
+NK,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, CRP, CRP, Release A, <EOS>",18
+OK,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, IV Liquid, Admission NC, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, Release A, Return ER, <EOS>",19
+RK,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, LacticAcid, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, Release A, <EOS>",15
+SK,"<BOS>, ER Registration, ER Triage, LacticAcid, CRP, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, CRP, Release C, Return ER, <EOS>",32
+TK,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, <EOS>",5
+UK,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, Admission NC, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",18
+WK,"<BOS>, Leucocytes, CRP, ER Registration, ER Triage, ER Sepsis Triage, IV Antibiotics, Admission NC, Release A, <EOS>",8
+XK,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, <EOS>",6
+YK,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Release A, Return ER, <EOS>",17
+AL,"<BOS>, ER Registration, ER Triage, LacticAcid, Leucocytes, CRP, ER Sepsis Triage, IV Liquid, Leucocytes, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",19
+BL,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, IV Antibiotics, Admission NC, Admission NC, Admission NC, CRP, Release A, <EOS>",11
+CL,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, <EOS>",4
+EL,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, LacticAcid, CRP, IV Antibiotics, Admission NC, Admission NC, Leucocytes, Leucocytes, CRP, Release A, <EOS>",14
+FL,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, Admission NC, IV Liquid, IV Antibiotics, <EOS>",9
+GL,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",15
+JL,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Release A, <EOS>",10
+LL,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Antibiotics, IV Liquid, Admission NC, Leucocytes, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Release A, <EOS>",22
+ML,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Admission IC, Leucocytes, CRP, LacticAcid, LacticAcid, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, Admission NC, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",29
+NL,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, <EOS>",6
+OL,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, Return ER, <EOS>",12
+PL,"<BOS>, ER Registration, LacticAcid, Leucocytes, CRP, ER Triage, ER Sepsis Triage, <EOS>",6
+RL,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, Release A, <EOS>",7
+SL,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Antibiotics, IV Liquid, Admission NC, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",16
+TL,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission NC, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",17
+UL,"<BOS>, ER Registration, Leucocytes, LacticAcid, CRP, ER Triage, ER Sepsis Triage, IV Antibiotics, <EOS>",7
+VL,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",14
+WL,"<BOS>, CRP, Leucocytes, ER Registration, ER Triage, ER Sepsis Triage, Admission NC, CRP, CRP, Release A, <EOS>",9
+YL,"<BOS>, ER Registration, ER Triage, LacticAcid, CRP, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",18
+ZL,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, LacticAcid, CRP, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+AM,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+BM,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, ER Sepsis Triage, IV Liquid, IV Antibiotics, Release B, Admission NC, <EOS>",9
+DM,"<BOS>, ER Registration, ER Triage, CRP, LacticAcid, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, <EOS>",8
+EM,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission IC, Leucocytes, LacticAcid, CRP, Leucocytes, CRP, LacticAcid, LacticAcid, LacticAcid, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",29
+FM,"<BOS>, ER Registration, ER Sepsis Triage, ER Triage, IV Antibiotics, Leucocytes, CRP, IV Liquid, Admission NC, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",16
+HM,"<BOS>, Leucocytes, CRP, ER Registration, ER Triage, ER Sepsis Triage, Admission NC, CRP, Leucocytes, Admission NC, CRP, Leucocytes, CRP, Leucocytes, CRP, Release C, <EOS>",15
+JM,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, Admission NC, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release E, <EOS>",13
+KM,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission IC, CRP, Leucocytes, LacticAcid, Leucocytes, Leucocytes, LacticAcid, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, LacticAcid, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, LacticAcid, Leucocytes, CRP, CRP, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, LacticAcid, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, LacticAcid, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, LacticAcid, Leucocytes, LacticAcid, CRP, LacticAcid, Leucocytes, CRP, CRP, LacticAcid, Leucocytes, CRP, Leucocytes, LacticAcid, CRP, LacticAcid, Leucocytes, Admission IC, CRP, LacticAcid, Leucocytes, Leucocytes, Leucocytes, CRP, LacticAcid, LacticAcid, CRP, LacticAcid, Leucocytes, CRP, Leucocytes, LacticAcid, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, LacticAcid, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, LacticAcid, CRP, Leucocytes, Leucocytes, CRP, LacticAcid, LacticAcid, Leucocytes, CRP, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, LacticAcid, CRP, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, CRP, CRP, LacticAcid, Leucocytes, Leucocytes, Admission NC, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",170
+MM,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, CRP, Release A, <EOS>",20
+NM,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, CRP, CRP, Release A, Return ER, <EOS>",15
+OM,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, LacticAcid, CRP, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",19
+PM,"<BOS>, ER Registration, ER Triage, LacticAcid, CRP, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, <EOS>",8
+QM,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, <EOS>",12
+RM,"<BOS>, ER Registration, ER Triage, CRP, Leucocytes, ER Sepsis Triage, Admission NC, Release A, <EOS>",7
+SM,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Antibiotics, IV Liquid, Admission IC, CRP, LacticAcid, Leucocytes, LacticAcid, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, LacticAcid, Leucocytes, CRP, LacticAcid, Admission NC, Leucocytes, CRP, CRP, CRP, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Admission NC, Release A, Return ER, <EOS>",40
+TM,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, IV Antibiotics, IV Liquid, <EOS>",7
+UM,"<BOS>, ER Registration, ER Triage, IV Liquid, Leucocytes, CRP, Leucocytes, LacticAcid, ER Sepsis Triage, IV Antibiotics, <EOS>",9
+VM,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Release A, <EOS>",15
+XM,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",18
+YM,"<BOS>, ER Registration, IV Liquid, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+ZM,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Admission NC, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, Release A, <EOS>",28
+AN,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Antibiotics, IV Liquid, <EOS>",8
+BN,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, CRP, CRP, Release A, <EOS>",26
+CN,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, IV Liquid, Admission NC, Admission NC, Release B, <EOS>",11
+DN,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, <EOS>",5
+FN,"<BOS>, ER Registration, IV Liquid, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, Leucocytes, Admission NC, LacticAcid, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, Release B, <EOS>",23
+GN,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, Admission NC, Leucocytes, Admission IC, CRP, LacticAcid, Leucocytes, Leucocytes, Leucocytes, CRP, LacticAcid, Leucocytes, Admission NC, Leucocytes, CRP, Leucocytes, Leucocytes, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Release D, Return ER, <EOS>",41
+IN,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, <EOS>",11
+JN,"<BOS>, ER Registration, ER Triage, CRP, LacticAcid, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Release A, <EOS>",12
+KN,"<BOS>, ER Registration, IV Liquid, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, Admission NC, Release A, <EOS>",14
+LN,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, CRP, LacticAcid, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",15
+MN,"<BOS>, CRP, Leucocytes, ER Registration, ER Triage, ER Sepsis Triage, Admission NC, CRP, Leucocytes, Admission IC, Leucocytes, CRP, LacticAcid, Leucocytes, Leucocytes, Admission IC, Leucocytes, CRP, LacticAcid, Leucocytes, Leucocytes, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, CRP, LacticAcid, Leucocytes, Admission NC, Release A, Return ER, <EOS>",33
+NN,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Antibiotics, CRP, Leucocytes, Admission NC, Leucocytes, CRP, IV Liquid, CRP, Leucocytes, Release A, <EOS>",13
+ON,"<BOS>, ER Registration, ER Triage, LacticAcid, Leucocytes, CRP, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Release A, <EOS>",15
+PN,"<BOS>, Leucocytes, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",6
+QN,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, CRP, LacticAcid, Admission NC, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Leucocytes, Release A, <EOS>",16
+RN,"<BOS>, ER Registration, ER Triage, Leucocytes, LacticAcid, CRP, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Release B, <EOS>",20
+SN,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, <EOS>",8
+TN,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, Admission NC, Admission NC, IV Antibiotics, IV Liquid, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Admission NC, Admission IC, LacticAcid, Leucocytes, CRP, CRP, Leucocytes, LacticAcid, Admission NC, Release A, <EOS>",27
+UN,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+VN,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Antibiotics, IV Liquid, Admission NC, Admission IC, LacticAcid, CRP, Leucocytes, CRP, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, Admission NC, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",28
+WN,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Release D, Return ER, <EOS>",23
+XN,"<BOS>, ER Registration, Leucocytes, CRP, LacticAcid, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",16
+YN,"<BOS>, CRP, Leucocytes, ER Registration, Leucocytes, CRP, ER Triage, ER Sepsis Triage, <EOS>",7
+ZN,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+AO,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, Admission NC, Release A, Return ER, <EOS>",7
+BO,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, <EOS>",6
+CO,"<BOS>, ER Registration, CRP, Leucocytes, ER Triage, ER Sepsis Triage, IV Antibiotics, Admission NC, Release A, <EOS>",8
+DO,"<BOS>, ER Registration, ER Triage, IV Liquid, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",16
+EO,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",15
+KO,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",16
+LO,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, <EOS>",8
+NO,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, Release A, <EOS>",13
+PO,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",13
+QO,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, LacticAcid, CRP, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+SO,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, CRP, Leucocytes, Release A, Return ER, <EOS>",16
+TO,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission IC, LacticAcid, LacticAcid, Leucocytes, LacticAcid, CRP, LacticAcid, Leucocytes, LacticAcid, LacticAcid, Leucocytes, CRP, LacticAcid, LacticAcid, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Admission NC, Release A, Return ER, <EOS>",34
+VO,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, Leucocytes, CRP, LacticAcid, LacticAcid, Leucocytes, CRP, CRP, Leucocytes, Release A, Return ER, <EOS>",22
+WO,"<BOS>, IV Liquid, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",18
+XO,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Antibiotics, LacticAcid, Leucocytes, CRP, Admission NC, Release B, <EOS>",9
+YO,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, LacticAcid, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Release A, <EOS>",27
+ZO,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, LacticAcid, Leucocytes, Admission NC, CRP, Leucocytes, Release A, <EOS>",12
+CP,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, LacticAcid, CRP, Admission NC, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release C, <EOS>",15
+DP,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, ER Sepsis Triage, IV Liquid, LacticAcid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release A, <EOS>",14
+EP,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, LacticAcid, Leucocytes, IV Antibiotics, <EOS>",8
+FP,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, IV Antibiotics, <EOS>",6
+HP,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, Admission NC, Admission NC, CRP, Leucocytes, Release A, <EOS>",11
+IP,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",16
+JP,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+KP,"<BOS>, ER Registration, IV Liquid, ER Triage, LacticAcid, Leucocytes, CRP, ER Sepsis Triage, IV Antibiotics, Admission NC, Release A, <EOS>",10
+LP,"<BOS>, ER Registration, ER Sepsis Triage, ER Triage, IV Liquid, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, CRP, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Release B, <EOS>",19
+MP,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, LacticAcid, CRP, Leucocytes, CRP, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, Release A, Return ER, <EOS>",22
+OP,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, <EOS>",8
+PP,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+RP,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, ER Sepsis Triage, Admission NC, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",14
+SP,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+TP,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Release A, <EOS>",15
+UP,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Release A, <EOS>",11
+VP,"<BOS>, ER Registration, ER Triage, LacticAcid, CRP, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release B, <EOS>",15
+WP,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission IC, Leucocytes, CRP, LacticAcid, Admission NC, Leucocytes, CRP, Release A, <EOS>",16
+XP,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, Admission NC, Leucocytes, Release A, <EOS>",13
+YP,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Admission NC, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Release B, <EOS>",30
+ZP,"<BOS>, ER Registration, IV Liquid, ER Sepsis Triage, IV Antibiotics, ER Triage, LacticAcid, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Release A, <EOS>",12
+AQ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release A, <EOS>",14
+BQ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Release A, <EOS>",12
+CQ,"<BOS>, ER Registration, ER Sepsis Triage, IV Antibiotics, ER Triage, CRP, Leucocytes, LacticAcid, IV Liquid, Admission NC, CRP, Leucocytes, Admission NC, Release A, <EOS>",13
+DQ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, <EOS>",8
+EQ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Release A, Return ER, <EOS>",30
+FQ,"<BOS>, ER Registration, ER Triage, CRP, Leucocytes, LacticAcid, ER Sepsis Triage, Admission NC, Release B, <EOS>",8
+GQ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Antibiotics, Admission NC, CRP, Release A, <EOS>",10
+JQ,"<BOS>, ER Registration, ER Triage, CRP, Leucocytes, LacticAcid, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Release B, <EOS>",18
+KQ,"<BOS>, ER Registration, ER Triage, CRP, Leucocytes, ER Sepsis Triage, Admission NC, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",11
+LQ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, LacticAcid, CRP, Leucocytes, Admission NC, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, CRP, Release A, Return ER, <EOS>",21
+MQ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, CRP, Leucocytes, Admission NC, CRP, CRP, Leucocytes, Release A, Return ER, <EOS>",16
+NQ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, <EOS>",5
+OQ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Antibiotics, Leucocytes, LacticAcid, CRP, Admission NC, CRP, CRP, Leucocytes, Release A, <EOS>",12
+PQ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Admission NC, Release A, <EOS>",5
+QQ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission NC, CRP, Release A, <EOS>",10
+RQ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, LacticAcid, Leucocytes, <EOS>",8
+SQ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission IC, Leucocytes, Leucocytes, Leucocytes, CRP, CRP, Release B, <EOS>",12
+TQ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",15
+UQ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, Admission NC, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",12
+VQ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Release D, <EOS>",12
+WQ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+ZQ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, CRP, LacticAcid, Leucocytes, <EOS>",21
+AR,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",23
+BR,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission NC, Release A, Return ER, <EOS>",11
+CR,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",17
+DR,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Release A, <EOS>",15
+ER,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, <EOS>",8
+IR,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, ER Triage, <EOS>",9
+JR,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",16
+LR,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, IV Liquid, Admission NC, CRP, Leucocytes, Release A, <EOS>",12
+MR,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Antibiotics, IV Liquid, Admission NC, Admission NC, Admission NC, Release A, <EOS>",12
+NR,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, CRP, LacticAcid, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release B, <EOS>",19
+OR,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission IC, CRP, LacticAcid, Leucocytes, LacticAcid, LacticAcid, CRP, Leucocytes, Admission NC, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",22
+QR,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, <EOS>",5
+RR,"<BOS>, IV Liquid, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, Release A, Return ER, <EOS>",11
+SR,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Release A, <EOS>",13
+TR,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, Admission NC, Release B, <EOS>",8
+UR,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Release C, <EOS>",15
+VR,"<BOS>, ER Triage, ER Registration, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, CRP, LacticAcid, Admission NC, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release C, Return ER, <EOS>",16
+WR,"<BOS>, CRP, LacticAcid, Leucocytes, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Release C, <EOS>",18
+YR,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, LacticAcid, Leucocytes, CRP, Admission NC, LacticAcid, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Release A, <EOS>",17
+ZR,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Release A, <EOS>",13
+AS,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Leucocytes, CRP, LacticAcid, Admission IC, Leucocytes, LacticAcid, Leucocytes, LacticAcid, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, Release B, <EOS>",22
+BS,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, CRP, CRP, CRP, Release C, <EOS>",13
+CS,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Antibiotics, <EOS>",7
+DS,"<BOS>, IV Liquid, ER Registration, ER Triage, ER Sepsis Triage, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission NC, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",15
+FS,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, <EOS>",6
+HS,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, CRP, LacticAcid, Leucocytes, Admission IC, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, LacticAcid, Leucocytes, CRP, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Admission NC, Leucocytes, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Release D, Return ER, <EOS>",45
+IS,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Release A, <EOS>",23
+JS,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, CRP, CRP, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",39
+KS,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission NC, Admission NC, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",22
+LS,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, Leucocytes, Release A, Return ER, <EOS>",15
+OS,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Release A, Return ER, <EOS>",12
+PS,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Release A, <EOS>",10
+RS,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Release A, <EOS>",10
+SS,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+TS,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Release C, <EOS>",20
+US,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Release A, <EOS>",15
+VS,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, CRP, LacticAcid, Admission NC, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, Release A, <EOS>",16
+XS,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Release C, Return ER, <EOS>",21
+YS,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission IC, LacticAcid, LacticAcid, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",23
+ZS,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission NC, Release A, Return ER, <EOS>",14
+AT,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, <EOS>",8
+BT,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+CT,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, IV Liquid, CRP, Leucocytes, Release A, <EOS>",12
+DT,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, Admission NC, Admission NC, Release A, <EOS>",9
+FT,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission IC, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, LacticAcid, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, Admission NC, Release A, <EOS>",37
+GT,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",22
+HT,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",14
+IT,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",16
+JT,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",14
+LT,"<BOS>, ER Registration, Leucocytes, CRP, LacticAcid, ER Triage, ER Sepsis Triage, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, Admission NC, Admission IC, LacticAcid, CRP, Leucocytes, LacticAcid, CRP, Leucocytes, Leucocytes, LacticAcid, CRP, Admission NC, Leucocytes, CRP, CRP, Leucocytes, CRP, Release A, <EOS>",29
+MT,"<BOS>, ER Registration, ER Triage, IV Liquid, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Antibiotics, Admission NC, CRP, Release A, Return ER, <EOS>",12
+NT,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, LacticAcid, CRP, Admission NC, Admission NC, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Release A, <EOS>",17
+OT,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",16
+PT,"<BOS>, ER Registration, ER Triage, CRP, LacticAcid, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Admission NC, Release A, <EOS>",13
+QT,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, <EOS>",11
+RT,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, LacticAcid, CRP, IV Antibiotics, Admission NC, Release A, Return ER, <EOS>",11
+ST,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, CRP, LacticAcid, Leucocytes, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",17
+TT,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+UT,"<BOS>, ER Registration, Leucocytes, CRP, LacticAcid, ER Triage, ER Sepsis Triage, IV Antibiotics, IV Liquid, Admission NC, Leucocytes, CRP, Release A, <EOS>",12
+VT,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Admission NC, Release A, <EOS>",16
+WT,"<BOS>, ER Registration, ER Triage, CRP, LacticAcid, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, Admission NC, Release A, Return ER, <EOS>",18
+XT,"<BOS>, ER Registration, ER Triage, CRP, Leucocytes, LacticAcid, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",18
+YT,"<BOS>, ER Registration, ER Triage, LacticAcid, CRP, Leucocytes, IV Liquid, ER Sepsis Triage, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",17
+AU,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, LacticAcid, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Release A, <EOS>",12
+BU,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, LacticAcid, CRP, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release A, <EOS>",14
+DU,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, LacticAcid, CRP, IV Antibiotics, Admission NC, <EOS>",9
+EU,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Antibiotics, IV Liquid, Admission NC, CRP, Leucocytes, Leucocytes, Release A, Return ER, <EOS>",14
+FU,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",12
+GU,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Release A, Return ER, <EOS>",15
+HU,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+JU,"<BOS>, ER Registration, Leucocytes, LacticAcid, CRP, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, CRP, Leucocytes, CRP, Leucocytes, Release A, <EOS>",16
+KU,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, <EOS>",8
+MU,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, LacticAcid, Leucocytes, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",14
+RU,"<BOS>, Leucocytes, CRP, ER Registration, ER Triage, ER Sepsis Triage, IV Antibiotics, Admission NC, CRP, Leucocytes, Admission NC, CRP, Leucocytes, Admission NC, Admission IC, Leucocytes, LacticAcid, CRP, CRP, LacticAcid, Leucocytes, Leucocytes, Leucocytes, LacticAcid, CRP, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",34
+SU,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, LacticAcid, CRP, IV Antibiotics, Admission NC, <EOS>",9
+TU,"<BOS>, ER Registration, ER Triage, Leucocytes, LacticAcid, CRP, ER Sepsis Triage, Admission NC, Admission NC, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, CRP, Release D, <EOS>",20
+UU,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, Admission NC, Release A, <EOS>",6
+VU,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",14
+WU,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, LacticAcid, Admission NC, LacticAcid, Leucocytes, CRP, LacticAcid, CRP, Release A, <EOS>",17
+XU,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Antibiotics, IV Liquid, <EOS>",8
+YU,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+BV,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, LacticAcid, Admission NC, CRP, Leucocytes, Release A, <EOS>",16
+CV,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, <EOS>",12
+DV,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, <EOS>",8
+EV,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, Leucocytes, CRP, IV Liquid, <EOS>",10
+FV,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, LacticAcid, Leucocytes, CRP, <EOS>",8
+GV,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, LacticAcid, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release B, <EOS>",14
+HV,"<BOS>, ER Registration, CRP, Leucocytes, LacticAcid, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Release A, <EOS>",16
+IV,"<BOS>, ER Registration, ER Triage, CRP, Leucocytes, ER Sepsis Triage, IV Liquid, LacticAcid, IV Antibiotics, <EOS>",8
+KV,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, ER Sepsis Triage, Admission NC, Release A, Return ER, <EOS>",8
+LV,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Release D, <EOS>",19
+OV,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Antibiotics, Admission NC, IV Liquid, <EOS>",9
+RV,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+SV,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, Release B, <EOS>",10
+TV,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",17
+UV,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",15
+VV,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, <EOS>",5
+WV,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release A, <EOS>",14
+XV,"<BOS>, ER Registration, ER Triage, Leucocytes, LacticAcid, CRP, ER Sepsis Triage, IV Liquid, IV Antibiotics, <EOS>",8
+YV,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, LacticAcid, CRP, Admission NC, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",21
+AW,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Antibiotics, <EOS>",7
+BW,"<BOS>, ER Registration, IV Liquid, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Antibiotics, Admission NC, LacticAcid, Leucocytes, Admission NC, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, Release A, <EOS>",21
+FW,"<BOS>, ER Registration, ER Triage, Leucocytes, LacticAcid, CRP, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",20
+GW,"<BOS>, ER Sepsis Triage, IV Liquid, IV Antibiotics, ER Registration, ER Triage, LacticAcid, CRP, Leucocytes, LacticAcid, CRP, Leucocytes, <EOS>",11
+HW,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, ER Triage, <EOS>",6
+IW,"<BOS>, Leucocytes, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, CRP, Leucocytes, Release A, <EOS>",13
+JW,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, Return ER, <EOS>",16
+KW,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, Release A, Return ER, <EOS>",13
+NW,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Admission NC, LacticAcid, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",18
+OW,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Release A, <EOS>",16
+PW,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, CRP, Release A, <EOS>",12
+QW,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, IV Liquid, Admission NC, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",14
+SW,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, CRP, LacticAcid, Admission NC, LacticAcid, Leucocytes, CRP, Admission NC, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",19
+TW,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, LacticAcid, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Admission NC, Release A, Return ER, <EOS>",22
+VW,"<BOS>, ER Triage, ER Registration, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, Release A, Return ER, <EOS>",14
+WW,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission IC, CRP, LacticAcid, Leucocytes, Admission IC, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",18
+XW,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",16
+ZW,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, LacticAcid, CRP, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, Release A, <EOS>",13
+AX,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, <EOS>",6
+BX,"<BOS>, ER Registration, ER Triage, CRP, Leucocytes, LacticAcid, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Release A, Return ER, <EOS>",17
+CX,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Release A, <EOS>",14
+DX,"<BOS>, Leucocytes, CRP, ER Registration, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Release A, <EOS>",13
+EX,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Antibiotics, IV Liquid, Admission NC, Admission NC, Leucocytes, CRP, CRP, Leucocytes, CRP, Admission NC, Admission NC, CRP, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",24
+FX,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, CRP, Leucocytes, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",17
+IX,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, <EOS>",8
+LX,"<BOS>, Leucocytes, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Release A, <EOS>",13
+MX,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, <EOS>",12
+NX,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, CRP, CRP, Leucocytes, Release A, <EOS>",12
+OX,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Antibiotics, IV Liquid, Admission NC, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",14
+PX,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+QX,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Admission NC, Admission NC, Admission NC, CRP, Leucocytes, Admission NC, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Release B, <EOS>",29
+RX,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, <EOS>",5
+SX,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release A, <EOS>",20
+UX,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, <EOS>",8
+VX,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, <EOS>",5
+WX,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Antibiotics, IV Liquid, <EOS>",8
+XX,"<BOS>, CRP, Leucocytes, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Release B, <EOS>",12
+YX,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission NC, Admission IC, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, LacticAcid, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, LacticAcid, Leucocytes, CRP, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, LacticAcid, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, LacticAcid, Leucocytes, CRP, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, CRP, LacticAcid, Leucocytes, Leucocytes, LacticAcid, CRP, LacticAcid, Admission NC, Admission NC, Release A, <EOS>",84
+ZX,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Release A, <EOS>",10
+AY,"<BOS>, ER Registration, ER Triage, CRP, Leucocytes, LacticAcid, ER Sepsis Triage, Admission NC, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Release B, <EOS>",22
+BY,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, <EOS>",6
+CY,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, Admission IC, CRP, LacticAcid, Leucocytes, Leucocytes, LacticAcid, CRP, Admission NC, CRP, Leucocytes, Admission NC, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, CRP, Release E, <EOS>",33
+DY,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, Admission NC, CRP, Leucocytes, Release A, <EOS>",14
+EY,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, IV Antibiotics, IV Liquid, Admission NC, Leucocytes, Leucocytes, Leucocytes, Release B, <EOS>",12
+FY,"<BOS>, ER Registration, ER Triage, LacticAcid, Leucocytes, CRP, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, Leucocytes, CRP, CRP, Release A, Return ER, <EOS>",17
+GY,"<BOS>, ER Registration, ER Triage, LacticAcid, CRP, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, Release A, <EOS>",13
+HY,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, IV Liquid, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",15
+IY,"<BOS>, ER Registration, ER Triage, IV Liquid, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",18
+JY,"<BOS>, ER Registration, ER Triage, CRP, LacticAcid, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",18
+LY,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+MY,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, <EOS>",6
+NY,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, <EOS>",8
+PY,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, <EOS>",8
+QY,"<BOS>, ER Registration, LacticAcid, Leucocytes, CRP, ER Triage, ER Sepsis Triage, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",12
+RY,"<BOS>, CRP, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission NC, Admission IC, Leucocytes, LacticAcid, CRP, LacticAcid, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",23
+SY,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, LacticAcid, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Admission NC, Release A, Return ER, <EOS>",14
+TY,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+UY,"<BOS>, ER Registration, Leucocytes, CRP, LacticAcid, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, <EOS>",9
+VY,"<BOS>, ER Registration, ER Triage, LacticAcid, Leucocytes, CRP, ER Sepsis Triage, IV Antibiotics, IV Liquid, Admission NC, Admission NC, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",17
+WY,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+XY,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, IV Liquid, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+AZ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Release A, <EOS>",15
+BZ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Release A, <EOS>",24
+CZ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, LacticAcid, IV Liquid, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission IC, LacticAcid, Leucocytes, CRP, LacticAcid, LacticAcid, LacticAcid, Leucocytes, CRP, Admission NC, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, Leucocytes, CRP, LacticAcid, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Release B, <EOS>",40
+DZ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission IC, LacticAcid, LacticAcid, Leucocytes, LacticAcid, CRP, LacticAcid, LacticAcid, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, Admission NC, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",32
+HZ,"<BOS>, ER Registration, ER Triage, CRP, LacticAcid, Leucocytes, IV Liquid, Admission NC, ER Sepsis Triage, IV Antibiotics, Admission IC, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",22
+IZ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, Admission NC, Release A, <EOS>",7
+LZ,"<BOS>, ER Sepsis Triage, IV Antibiotics, IV Liquid, ER Registration, ER Triage, CRP, Leucocytes, LacticAcid, Admission NC, Admission NC, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Leucocytes, Admission NC, Leucocytes, Leucocytes, Release A, Return ER, <EOS>",21
+MZ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",14
+NZ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Admission IC, Leucocytes, CRP, LacticAcid, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, LacticAcid, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, CRP, LacticAcid, Leucocytes, LacticAcid, CRP, Leucocytes, CRP, LacticAcid, Leucocytes, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, CRP, Leucocytes, LacticAcid, LacticAcid, CRP, Leucocytes, Leucocytes, CRP, LacticAcid, Admission NC, CRP, Leucocytes, Admission NC, Admission NC, Leucocytes, Admission NC, Release A, Return ER, <EOS>",61
+PZ,"<BOS>, ER Registration, ER Triage, CRP, Leucocytes, LacticAcid, ER Sepsis Triage, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release D, Return ER, <EOS>",15
+QZ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, Leucocytes, Release A, <EOS>",10
+RZ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, CRP, CRP, Release A, <EOS>",14
+TZ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, IV Liquid, IV Antibiotics, LacticAcid, <EOS>",8
+UZ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release B, <EOS>",12
+VZ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, Leucocytes, CRP, <EOS>",6
+WZ,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Release C, Return ER, <EOS>",24
+XZ,"<BOS>, IV Liquid, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission NC, Leucocytes, CRP, LacticAcid, CRP, LacticAcid, Leucocytes, Release B, <EOS>",16
+YZ,"<BOS>, ER Registration, IV Liquid, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, CRP, Release A, Return ER, <EOS>",15
+DAA,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",16
+EAA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, Admission NC, Leucocytes, CRP, Leucocytes, Admission NC, LacticAcid, CRP, Leucocytes, Release B, <EOS>",15
+FAA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, Leucocytes, CRP, LacticAcid, Admission NC, IV Liquid, CRP, Leucocytes, Release A, Return ER, <EOS>",17
+GAA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",16
+HAA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission IC, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, LacticAcid, Admission NC, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",21
+JAA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, Leucocytes, Admission NC, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, CRP, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Release E, <EOS>",23
+KAA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Admission NC, Release A, <EOS>",5
+LAA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, <EOS>",8
+MAA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Release A, <EOS>",14
+OAA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, CRP, Leucocytes, Admission IC, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, LacticAcid, CRP, Leucocytes, Leucocytes, CRP, LacticAcid, CRP, LacticAcid, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, Leucocytes, LacticAcid, CRP, Admission NC, Release A, <EOS>",37
+PAA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, <EOS>",8
+QAA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release C, <EOS>",14
+SAA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release E, <EOS>",11
+TAA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",18
+VAA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission IC, CRP, LacticAcid, Leucocytes, LacticAcid, CRP, Leucocytes, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",20
+WAA,"<BOS>, ER Registration, IV Liquid, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission NC, CRP, Leucocytes, Release A, <EOS>",12
+XAA,"<BOS>, ER Registration, ER Sepsis Triage, IV Liquid, IV Antibiotics, ER Triage, Leucocytes, LacticAcid, CRP, Admission NC, Admission NC, Leucocytes, CRP, Release A, <EOS>",13
+YAA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, <EOS>",12
+ABA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",17
+BBA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, CRP, Release A, <EOS>",14
+FBA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",10
+GBA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, Release A, Return ER, <EOS>",11
+HBA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release C, Return ER, <EOS>",15
+IBA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, CRP, CRP, Release A, <EOS>",12
+JBA,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Liquid, IV Antibiotics, <EOS>",8
+KBA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",15
+MBA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, CRP, LacticAcid, Admission NC, CRP, Release A, <EOS>",11
+NBA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+OBA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, Admission NC, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, Release A, <EOS>",13
+PBA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission IC, LacticAcid, Release B, <EOS>",11
+QBA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, LacticAcid, Leucocytes, CRP, Admission IC, Leucocytes, CRP, LacticAcid, CRP, LacticAcid, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, Admission NC, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Release A, <EOS>",33
+RBA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",13
+SBA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, LacticAcid, Admission NC, Leucocytes, CRP, Release A, <EOS>",14
+TBA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Release A, <EOS>",12
+UBA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, LacticAcid, CRP, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",15
+VBA,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, ER Sepsis Triage, <EOS>",5
+XBA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, Admission NC, Admission NC, Admission IC, LacticAcid, Leucocytes, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Leucocytes, CRP, LacticAcid, LacticAcid, Leucocytes, CRP, Admission NC, Leucocytes, Leucocytes, Release A, Return ER, <EOS>",27
+YBA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",14
+ACA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, <EOS>",8
+CCA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, <EOS>",8
+DCA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+ECA,"<BOS>, ER Registration, ER Triage, Leucocytes, LacticAcid, CRP, Admission IC, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, LacticAcid, CRP, CRP, LacticAcid, Leucocytes, Admission NC, Leucocytes, CRP, Release A, <EOS>",19
+FCA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",15
+GCA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, Release A, Return ER, <EOS>",14
+HCA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, Leucocytes, LacticAcid, IV Antibiotics, <EOS>",8
+ICA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, <EOS>",5
+JCA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Release D, Return ER, <EOS>",18
+KCA,"<BOS>, ER Registration, IV Liquid, ER Triage, ER Sepsis Triage, CRP, Leucocytes, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, <EOS>",11
+LCA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, LacticAcid, IV Antibiotics, <EOS>",8
+NCA,"<BOS>, IV Liquid, ER Registration, ER Triage, ER Sepsis Triage, IV Antibiotics, Leucocytes, CRP, LacticAcid, Admission NC, Admission NC, CRP, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",17
+OCA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+PCA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, Admission NC, Leucocytes, CRP, LacticAcid, <EOS>",10
+QCA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Release A, <EOS>",15
+RCA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, LacticAcid, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",15
+SCA,"<BOS>, ER Registration, IV Liquid, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission IC, Leucocytes, CRP, LacticAcid, Admission NC, Leucocytes, Admission NC, Release A, Return ER, <EOS>",17
+TCA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",21
+UCA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+VCA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",15
+WCA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, LacticAcid, Leucocytes, Admission IC, Leucocytes, CRP, LacticAcid, LacticAcid, CRP, Leucocytes, Admission NC, CRP, CRP, Leucocytes, Release A, <EOS>",20
+XCA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, CRP, Admission IC, LacticAcid, CRP, Leucocytes, LacticAcid, Admission NC, Admission NC, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",35
+YCA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Antibiotics, IV Liquid, Admission NC, Leucocytes, CRP, <EOS>",11
+ADA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Release A, Return ER, CRP, Leucocytes, LacticAcid, <EOS>",24
+BDA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, Release A, <EOS>",12
+CDA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+DDA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, CRP, Release A, <EOS>",17
+FDA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, IV Liquid, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",18
+GDA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, Admission NC, Release A, Return ER, <EOS>",9
+HDA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, LacticAcid, Leucocytes, CRP, Admission NC, CRP, Release A, Return ER, <EOS>",12
+IDA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, Release A, Return ER, <EOS>",13
+JDA,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Liquid, IV Antibiotics, <EOS>",8
+KDA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+LDA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Antibiotics, CRP, LacticAcid, Leucocytes, IV Liquid, Admission NC, CRP, Leucocytes, Admission NC, CRP, Leucocytes, Release A, <EOS>",15
+MDA,"<BOS>, IV Liquid, ER Registration, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Antibiotics, Admission IC, LacticAcid, CRP, Leucocytes, <EOS>",12
+NDA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission IC, LacticAcid, CRP, Leucocytes, Admission NC, Admission NC, Release A, <EOS>",15
+ODA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Release D, <EOS>",23
+PDA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, Release A, <EOS>",16
+QDA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, Leucocytes, Release A, Return ER, <EOS>",9
+RDA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, Leucocytes, LacticAcid, IV Antibiotics, <EOS>",8
+SDA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",14
+TDA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, CRP, LacticAcid, Admission NC, Release A, <EOS>",10
+UDA,"<BOS>, Leucocytes, CRP, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",30
+VDA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+WDA,"<BOS>, IV Liquid, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission IC, Leucocytes, CRP, LacticAcid, CRP, LacticAcid, Leucocytes, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",31
+YDA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, LacticAcid, CRP, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+ZDA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission IC, CRP, Leucocytes, LacticAcid, LacticAcid, Leucocytes, Admission NC, CRP, Release A, Return ER, <EOS>",18
+AEA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, <EOS>",9
+BEA,"<BOS>, CRP, Leucocytes, LacticAcid, ER Registration, ER Triage, ER Sepsis Triage, IV Antibiotics, IV Liquid, <EOS>",8
+CEA,"<BOS>, ER Registration, ER Triage, CRP, Leucocytes, LacticAcid, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, CRP, Release A, <EOS>",14
+DEA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, CRP, Release A, <EOS>",14
+EEA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Antibiotics, IV Liquid, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+FEA,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Release A, <EOS>",10
+GEA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, IV Liquid, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",14
+HEA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, CRP, Leucocytes, <EOS>",19
+IEA,"<BOS>, ER Registration, IV Liquid, ER Triage, ER Sepsis Triage, IV Antibiotics, LacticAcid, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",13
+JEA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, LacticAcid, CRP, IV Antibiotics, Admission NC, <EOS>",9
+LEA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, CRP, Admission IC, Leucocytes, CRP, LacticAcid, Leucocytes, LacticAcid, Leucocytes, CRP, Leucocytes, LacticAcid, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Release B, <EOS>",30
+MEA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",21
+NEA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Antibiotics, Admission IC, CRP, LacticAcid, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, LacticAcid, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",51
+OEA,"<BOS>, ER Registration, ER Triage, CRP, LacticAcid, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Release D, Return ER, <EOS>",20
+PEA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Release A, <EOS>",10
+QEA,"<BOS>, ER Registration, Leucocytes, CRP, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, <EOS>",7
+REA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, <EOS>",6
+SEA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission NC, Release A, Return ER, <EOS>",10
+TEA,"<BOS>, ER Registration, ER Triage, CRP, Leucocytes, LacticAcid, Admission NC, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, <EOS>",13
+UEA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+VEA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, <EOS>",8
+WEA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, IV Liquid, IV Antibiotics, <EOS>",7
+YEA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Release A, <EOS>",10
+ZEA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission IC, LacticAcid, CRP, Leucocytes, CRP, Leucocytes, LacticAcid, Admission NC, Release A, Return ER, <EOS>",18
+AFA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, IV Antibiotics, Admission NC, CRP, CRP, CRP, CRP, Release A, Return ER, <EOS>",13
+BFA,"<BOS>, Leucocytes, CRP, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission NC, Leucocytes, LacticAcid, Admission NC, Leucocytes, CRP, Admission IC, LacticAcid, Leucocytes, CRP, Release B, <EOS>",21
+CFA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, CRP, Leucocytes, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",18
+DFA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, Admission NC, Leucocytes, CRP, Release A, <EOS>",10
+EFA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, <EOS>",6
+GFA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Release A, <EOS>",10
+JFA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, Release A, Return ER, <EOS>",8
+KFA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",15
+LFA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Release A, <EOS>",10
+MFA,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+NFA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, <EOS>",8
+OFA,"<BOS>, ER Registration, LacticAcid, Leucocytes, CRP, ER Triage, ER Sepsis Triage, IV Antibiotics, <EOS>",7
+PFA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, LacticAcid, CRP, Admission IC, LacticAcid, CRP, LacticAcid, Leucocytes, LacticAcid, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Release A, <EOS>",20
+QFA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, Admission NC, Release B, <EOS>",8
+RFA,"<BOS>, ER Registration, IV Liquid, ER Triage, ER Sepsis Triage, IV Antibiotics, LacticAcid, Leucocytes, CRP, Admission NC, Release B, <EOS>",10
+SFA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, ER Triage, Leucocytes, CRP, CRP, Leucocytes, Release A, Return ER, <EOS>",16
+TFA,"<BOS>, ER Registration, ER Triage, Leucocytes, LacticAcid, CRP, ER Sepsis Triage, <EOS>",6
+UFA,"<BOS>, ER Registration, ER Triage, LacticAcid, Leucocytes, CRP, ER Sepsis Triage, IV Liquid, IV Antibiotics, <EOS>",8
+WFA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, LacticAcid, CRP, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+XFA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, Admission IC, Leucocytes, CRP, LacticAcid, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, Admission NC, Release A, Return ER, <EOS>",19
+ZFA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+AGA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Release A, <EOS>",15
+BGA,"<BOS>, ER Registration, CRP, LacticAcid, Leucocytes, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, <EOS>",12
+DGA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, LacticAcid, Leucocytes, Admission NC, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Admission NC, Release C, <EOS>",18
+EGA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, Release A, <EOS>",13
+FGA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, CRP, Leucocytes, IV Liquid, <EOS>",11
+GGA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, <EOS>",8
+IGA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",16
+JGA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, Admission NC, Release A, <EOS>",8
+KGA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, <EOS>",6
+LGA,"<BOS>, ER Triage, ER Registration, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, Admission NC, IV Liquid, IV Antibiotics, <EOS>",9
+MGA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, LacticAcid, Leucocytes, Admission NC, Leucocytes, CRP, Release B, <EOS>",12
+NGA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, Leucocytes, Admission NC, CRP, LacticAcid, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, Admission IC, CRP, LacticAcid, Leucocytes, CRP, Leucocytes, LacticAcid, LacticAcid, Leucocytes, CRP, CRP, LacticAcid, Leucocytes, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, LacticAcid, LacticAcid, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, LacticAcid, Leucocytes, CRP, Leucocytes, LacticAcid, CRP, CRP, LacticAcid, Leucocytes, CRP, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, Leucocytes, LacticAcid, CRP, CRP, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, LacticAcid, Leucocytes, LacticAcid, CRP, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, LacticAcid, CRP, Admission NC, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Release C, <EOS>",185
+PGA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, LacticAcid, Leucocytes, CRP, Admission NC, Admission NC, Admission IC, Leucocytes, CRP, LacticAcid, LacticAcid, LacticAcid, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",23
+QGA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Antibiotics, <EOS>",7
+RGA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",14
+SGA,"<BOS>, ER Registration, ER Triage, CRP, LacticAcid, Leucocytes, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission IC, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, LacticAcid, Release B, <EOS>",16
+TGA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, LacticAcid, Leucocytes, CRP, Admission NC, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",15
+VGA,"<BOS>, ER Registration, ER Triage, LacticAcid, Leucocytes, CRP, ER Sepsis Triage, IV Liquid, IV Antibiotics, <EOS>",8
+WGA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Admission IC, CRP, Leucocytes, LacticAcid, LacticAcid, Leucocytes, CRP, Leucocytes, LacticAcid, CRP, CRP, Leucocytes, LacticAcid, LacticAcid, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release D, Return ER, <EOS>",36
+XGA,"<BOS>, ER Registration, CRP, Leucocytes, LacticAcid, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",15
+YGA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, Release A, Return ER, <EOS>",14
+AHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, <EOS>",12
+BHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, LacticAcid, Leucocytes, CRP, IV Antibiotics, CRP, Leucocytes, Admission NC, Admission NC, CRP, Leucocytes, Release A, <EOS>",15
+CHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Antibiotics, IV Liquid, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+DHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, Admission NC, CRP, Release D, <EOS>",8
+EHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission IC, CRP, Leucocytes, LacticAcid, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release A, <EOS>",30
+FHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Release A, Return ER, <EOS>",13
+GHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Release A, <EOS>",14
+HHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission IC, LacticAcid, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Release A, <EOS>",16
+IHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",16
+JHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, Admission NC, Leucocytes, Release A, <EOS>",7
+KHA,"<BOS>, ER Registration, IV Liquid, ER Triage, ER Sepsis Triage, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission NC, Release A, <EOS>",10
+LHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission NC, CRP, Leucocytes, Admission NC, Release A, <EOS>",13
+MHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, CRP, Release A, Return ER, <EOS>",13
+NHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Release A, <EOS>",11
+OHA,"<BOS>, ER Registration, ER Triage, CRP, Leucocytes, LacticAcid, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Release A, <EOS>",13
+PHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, <EOS>",8
+QHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release A, <EOS>",14
+RHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Release A, <EOS>",9
+SHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, LacticAcid, CRP, Admission IC, Leucocytes, LacticAcid, CRP, Admission NC, CRP, Leucocytes, Leucocytes, Release A, <EOS>",17
+THA,"<BOS>, ER Registration, CRP, Leucocytes, LacticAcid, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Release A, <EOS>",12
+UHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+VHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+WHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Antibiotics, IV Liquid, Leucocytes, CRP, LacticAcid, Admission NC, Leucocytes, CRP, Release A, <EOS>",12
+XHA,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission IC, Leucocytes, CRP, LacticAcid, <EOS>",12
+ZHA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission IC, CRP, Leucocytes, LacticAcid, CRP, Leucocytes, LacticAcid, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",26
+AIA,"<BOS>, ER Registration, ER Triage, CRP, Leucocytes, LacticAcid, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, Admission NC, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Release A, Return ER, <EOS>",17
+BIA,"<BOS>, IV Liquid, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission IC, LacticAcid, CRP, Leucocytes, Leucocytes, CRP, LacticAcid, Leucocytes, LacticAcid, CRP, CRP, Leucocytes, LacticAcid, CRP, LacticAcid, Leucocytes, LacticAcid, Leucocytes, CRP, CRP, Leucocytes, LacticAcid, Admission NC, CRP, Leucocytes, Leucocytes, Release A, Return ER, <EOS>",36
+CIA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+DIA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, <EOS>",5
+EIA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Release A, Return ER, <EOS>",12
+FIA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, Admission NC, LacticAcid, Leucocytes, CRP, Admission NC, Admission NC, Release C, <EOS>",13
+GIA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Antibiotics, <EOS>",7
+IIA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Release A, <EOS>",13
+JIA,"<BOS>, CRP, Leucocytes, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, IV Liquid, IV Antibiotics, <EOS>",9
+MIA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Antibiotics, IV Liquid, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",13
+NIA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+OIA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Antibiotics, IV Liquid, Admission NC, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",15
+PIA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, Leucocytes, CRP, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, Admission IC, Leucocytes, CRP, LacticAcid, Leucocytes, Leucocytes, Leucocytes, LacticAcid, Leucocytes, CRP, Leucocytes, Leucocytes, Leucocytes, Leucocytes, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",45
+QIA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Antibiotics, IV Liquid, Leucocytes, CRP, LacticAcid, Admission NC, CRP, Leucocytes, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",16
+SIA,"<BOS>, ER Registration, Leucocytes, CRP, LacticAcid, IV Liquid, ER Triage, ER Sepsis Triage, IV Antibiotics, <EOS>",8
+TIA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, Leucocytes, CRP, Release A, <EOS>",15
+UIA,"<BOS>, ER Registration, CRP, Leucocytes, LacticAcid, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Release A, <EOS>",13
+VIA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, IV Liquid, Admission IC, CRP, Leucocytes, LacticAcid, Leucocytes, LacticAcid, LacticAcid, CRP, Leucocytes, Leucocytes, CRP, LacticAcid, Leucocytes, LacticAcid, CRP, LacticAcid, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Release A, <EOS>",36
+XIA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, <EOS>",5
+YIA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Antibiotics, IV Liquid, Admission NC, LacticAcid, CRP, Leucocytes, Admission IC, Leucocytes, CRP, LacticAcid, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",52
+ZIA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Liquid, IV Antibiotics, <EOS>",8
+AJA,"<BOS>, ER Registration, CRP, Leucocytes, ER Triage, ER Sepsis Triage, <EOS>",5
+BJA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, IV Liquid, Leucocytes, CRP, CRP, Leucocytes, Admission NC, Admission NC, Release A, Return ER, <EOS>",17
+DJA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, Admission NC, Release A, Return ER, <EOS>",9
+EJA,"<BOS>, ER Registration, CRP, Leucocytes, LacticAcid, ER Triage, ER Sepsis Triage, IV Antibiotics, Admission NC, Release A, <EOS>",9
+FJA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Release A, <EOS>",16
+GJA,"<BOS>, ER Registration, ER Triage, LacticAcid, Leucocytes, CRP, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, LacticAcid, CRP, Leucocytes, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, Return ER, <EOS>",19
+IJA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Antibiotics, IV Liquid, Admission NC, Leucocytes, CRP, <EOS>",11
+JJA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, Admission NC, CRP, Release A, <EOS>",9
+KJA,"<BOS>, Leucocytes, CRP, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",5
+LJA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, <EOS>",8
+MJA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, IV Antibiotics, Leucocytes, CRP, <EOS>",8
+NJA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, Admission NC, CRP, Leucocytes, Release A, <EOS>",16
+OJA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+PJA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, LacticAcid, CRP, Leucocytes, <EOS>",8
+QJA,"<BOS>, ER Registration, LacticAcid, Leucocytes, CRP, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, <EOS>",9
+RJA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, <EOS>",8
+SJA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Antibiotics, CRP, LacticAcid, Leucocytes, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",12
+TJA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, Release A, <EOS>",27
+UJA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, LacticAcid, CRP, <EOS>",8
+VJA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+WJA,"<BOS>, IV Liquid, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, CRP, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Release C, <EOS>",18
+XJA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Release A, <EOS>",20
+YJA,"<BOS>, ER Registration, LacticAcid, Leucocytes, CRP, IV Liquid, ER Triage, ER Sepsis Triage, IV Antibiotics, Admission NC, CRP, Leucocytes, Release A, <EOS>",12
+ZJA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",23
+AKA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+BKA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",19
+CKA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, LacticAcid, Leucocytes, CRP, IV Antibiotics, Admission NC, CRP, LacticAcid, Leucocytes, Leucocytes, Leucocytes, CRP, LacticAcid, Release A, <EOS>",17
+DKA,"<BOS>, ER Registration, ER Triage, Leucocytes, LacticAcid, CRP, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",14
+EKA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release A, <EOS>",14
+FKA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, Admission NC, Leucocytes, CRP, Admission NC, Release A, <EOS>",11
+GKA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, <EOS>",6
+IKA,"<BOS>, ER Registration, ER Triage, IV Liquid, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Antibiotics, <EOS>",8
+JKA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Release B, <EOS>",13
+KKA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission IC, Leucocytes, LacticAcid, CRP, Admission NC, Release A, <EOS>",14
+LKA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Release A, Leucocytes, Return ER, <EOS>",24
+NKA,"<BOS>, ER Registration, ER Triage, IV Liquid, CRP, Leucocytes, LacticAcid, ER Sepsis Triage, IV Antibiotics, Admission NC, Release A, <EOS>",10
+OKA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, <EOS>",12
+PKA,"<BOS>, ER Registration, ER Triage, Leucocytes, LacticAcid, CRP, ER Sepsis Triage, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, Return ER, <EOS>",15
+QKA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Leucocytes, Admission NC, CRP, Leucocytes, Release A, Return ER, <EOS>",14
+RKA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, Admission NC, CRP, Leucocytes, Release A, <EOS>",10
+SKA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+TKA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, Admission NC, LacticAcid, IV Liquid, Leucocytes, CRP, Release A, <EOS>",13
+UKA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, CRP, Leucocytes, Leucocytes, CRP, Admission NC, Release A, <EOS>",17
+XKA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",13
+YKA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission IC, Leucocytes, LacticAcid, CRP, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, CRP, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Release A, <EOS>",43
+ZKA,"<BOS>, ER Registration, IV Liquid, ER Triage, ER Sepsis Triage, IV Antibiotics, Leucocytes, LacticAcid, CRP, Admission NC, Leucocytes, LacticAcid, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",16
+ALA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, CRP, LacticAcid, Leucocytes, Admission NC, Leucocytes, Release A, <EOS>",11
+BLA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",20
+CLA,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Liquid, IV Antibiotics, <EOS>",8
+ELA,"<BOS>, ER Registration, ER Triage, LacticAcid, Leucocytes, CRP, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Leucocytes, CRP, Admission NC, Leucocytes, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Release A, <EOS>",20
+FLA,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, ER Sepsis Triage, <EOS>",5
+GLA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission NC, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release A, <EOS>",14
+HLA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission IC, Leucocytes, LacticAcid, CRP, Admission NC, Leucocytes, CRP, Release A, <EOS>",16
+ILA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Release A, Return ER, <EOS>",12
+JLA,"<BOS>, ER Registration, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, Leucocytes, CRP, Release A, <EOS>",25
+KLA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Leucocytes, Leucocytes, Leucocytes, CRP, Release A, <EOS>",14
+LLA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, <EOS>",5
+MLA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+OLA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Release A, Return ER, <EOS>",12
+PLA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, CRP, Leucocytes, Release A, Return ER, <EOS>",25
+QLA,"<BOS>, ER Triage, ER Registration, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Antibiotics, <EOS>",7
+RLA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, CRP, CRP, Release C, Return ER, <EOS>",22
+TLA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, <EOS>",8
+ULA,"<BOS>, ER Registration, IV Liquid, ER Triage, Leucocytes, CRP, LacticAcid, ER Sepsis Triage, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Admission NC, Release A, <EOS>",15
+VLA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, CRP, LacticAcid, <EOS>",8
+WLA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, Admission NC, CRP, Leucocytes, Admission NC, Leucocytes, CRP, CRP, Release A, Return ER, <EOS>",14
+YLA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, Admission IC, CRP, Leucocytes, LacticAcid, Leucocytes, LacticAcid, CRP, LacticAcid, CRP, Leucocytes, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, LacticAcid, CRP, Leucocytes, Admission NC, Leucocytes, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, CRP, Leucocytes, CRP, Admission NC, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Release A, Return ER, <EOS>",61
+ZLA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission NC, Release A, Return ER, <EOS>",11
+AMA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Release A, <EOS>",9
+BMA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Release A, Return ER, <EOS>",12
+CMA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, <EOS>",8
+DMA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+EMA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, CRP, Leucocytes, IV Antibiotics, IV Liquid, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",17
+FMA,"<BOS>, ER Registration, CRP, LacticAcid, Leucocytes, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, Admission NC, Admission NC, Release A, Return ER, <EOS>",13
+HMA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+JMA,"<BOS>, ER Sepsis Triage, ER Registration, ER Triage, IV Liquid, IV Antibiotics, CRP, Leucocytes, LacticAcid, Admission NC, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",17
+KMA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Release D, <EOS>",20
+LMA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, Admission NC, Release A, <EOS>",6
+NMA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Leucocytes, LacticAcid, CRP, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Admission NC, Admission NC, Release A, <EOS>",21
+OMA,"<BOS>, ER Sepsis Triage, ER Registration, ER Triage, IV Liquid, IV Antibiotics, CRP, LacticAcid, Leucocytes, Admission IC, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Admission NC, CRP, Leucocytes, CRP, Leucocytes, Release A, Return ER, <EOS>",26
+PMA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Leucocytes, CRP, Release A, <EOS>",14
+QMA,"<BOS>, ER Registration, Leucocytes, CRP, LacticAcid, ER Triage, ER Sepsis Triage, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, CRP, Admission NC, Leucocytes, CRP, CRP, Leucocytes, Release A, <EOS>",18
+SMA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, IV Liquid, IV Antibiotics, Admission IC, Admission NC, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Release A, <EOS>",16
+TMA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, Leucocytes, LacticAcid, IV Antibiotics, Admission NC, Release A, <EOS>",10
+UMA,"<BOS>, CRP, Leucocytes, ER Registration, ER Triage, ER Sepsis Triage, LacticAcid, Leucocytes, CRP, IV Liquid, IV Antibiotics, Admission NC, CRP, Leucocytes, Release A, <EOS>",14
+VMA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+WMA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, <EOS>",5
+XMA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, <EOS>",3
+YMA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, Leucocytes, CRP, Release A, Return ER, <EOS>",10
+ZMA,"<BOS>, IV Liquid, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, LacticAcid, CRP, IV Antibiotics, LacticAcid, Admission IC, LacticAcid, CRP, LacticAcid, Leucocytes, LacticAcid, Leucocytes, CRP, Leucocytes, LacticAcid, LacticAcid, CRP, Leucocytes, Leucocytes, LacticAcid, CRP, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, Admission NC, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Admission IC, LacticAcid, Leucocytes, CRP, Leucocytes, Release B, <EOS>",66
+ANA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, Admission NC, Leucocytes, CRP, Release A, <EOS>",9
+BNA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, Leucocytes, Admission NC, Release A, <EOS>",7
+CNA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, Admission NC, Leucocytes, Leucocytes, CRP, CRP, Leucocytes, Leucocytes, CRP, Leucocytes, CRP, Release A, Return ER, <EOS>",17
+FNA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission NC, IV Liquid, <EOS>",9
+GNA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, IV Liquid, CRP, LacticAcid, Leucocytes, IV Antibiotics, Admission IC, CRP, Leucocytes, LacticAcid, CRP, LacticAcid, Leucocytes, Admission IC, Leucocytes, CRP, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, Admission NC, Release A, <EOS>",25
+HNA,"<BOS>, ER Registration, ER Triage, ER Sepsis Triage, Leucocytes, CRP, LacticAcid, IV Antibiotics, Admission IC, CRP, Leucocytes, LacticAcid, LacticAcid, Leucocytes, Leucocytes, CRP, LacticAcid, Leucocytes, CRP, LacticAcid, LacticAcid, Leucocytes, CRP, Admission NC, CRP, Leucocytes, CRP, CRP, Leucocytes, CRP, Release A, <EOS>",30

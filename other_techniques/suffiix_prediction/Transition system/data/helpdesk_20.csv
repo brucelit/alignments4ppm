@@ -1,0 +1,909 @@
+CaseID,trace,length
+Case 1,"<BOS>, Assign seriousness, Take in charge ticket, Take in charge ticket, Resolve ticket, Closed, <EOS>",5
+Case 7,"<BOS>, Assign seriousness, Assign seriousness, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 12,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 13,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 15,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",5
+Case 18,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Resolve ticket, Closed, <EOS>",5
+Case 20,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 23,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 28,"<BOS>, Assign seriousness, Take in charge ticket, Create SW anomaly, Require upgrade, Require upgrade, Resolve ticket, <EOS>",6
+Case 31,"<BOS>, Assign seriousness, Take in charge ticket, Create SW anomaly, Require upgrade, Resolve ticket, Closed, <EOS>",6
+Case 33,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 34,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",6
+Case 39,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 40,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 46,"<BOS>, Assign seriousness, Take in charge ticket, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 54,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 58,"<BOS>, Assign seriousness, Create SW anomaly, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 63,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 65,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 69,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 73,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 77,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 79,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",6
+Case 80,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 82,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 83,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 89,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 97,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 100,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 105,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 106,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 107,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 114,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",7
+Case 115,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",6
+Case 129,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 131,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 140,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 143,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 144,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 145,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Wait, Resolve ticket, Closed, <EOS>",6
+Case 147,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 154,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 156,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 169,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 184,"<BOS>, Assign seriousness, Take in charge ticket, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 191,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",5
+Case 192,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, Take in charge ticket, Resolve ticket, Closed, <EOS>",8
+Case 193,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 202,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 210,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 211,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 230,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 232,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Resolve ticket, Closed, <EOS>",7
+Case 233,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 235,"<BOS>, Insert ticket, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 237,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 242,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 247,"<BOS>, Insert ticket, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 253,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 262,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Wait, Resolve ticket, Closed, <EOS>",7
+Case 265,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 282,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 286,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 292,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 296,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 299,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 308,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 313,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Require upgrade, Wait, Resolve ticket, Resolve ticket, Closed, <EOS>",8
+Case 317,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 323,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 324,"<BOS>, Take in charge ticket, Resolve ticket, Closed, <EOS>",3
+Case 326,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Require upgrade, Resolve ticket, Closed, <EOS>",6
+Case 331,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 332,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 333,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 337,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 343,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 345,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 346,"<BOS>, Assign seriousness, Wait, Wait, Resolve ticket, Closed, <EOS>",5
+Case 348,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 349,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 361,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",8
+Case 364,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 367,"<BOS>, Assign seriousness, Wait, Wait, Resolve ticket, Closed, <EOS>",5
+Case 370,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 374,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 378,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 380,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 382,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Require upgrade, Resolve ticket, <EOS>",6
+Case 383,"<BOS>, Insert ticket, Wait, Wait, <EOS>",3
+Case 384,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 397,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 399,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 402,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 407,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 408,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 412,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 414,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",5
+Case 421,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 427,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 433,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",6
+Case 435,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 438,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Wait, Resolve ticket, Closed, <EOS>",6
+Case 441,"<BOS>, Take in charge ticket, Resolve ticket, Resolve ticket, Closed, <EOS>",4
+Case 446,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 447,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 456,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 467,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",7
+Case 470,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 474,"<BOS>, Assign seriousness, Assign seriousness, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",7
+Case 478,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 480,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 483,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 484,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 487,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 496,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 498,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Resolve ticket, Closed, <EOS>",5
+Case 502,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 503,"<BOS>, Assign seriousness, Take in charge ticket, Create SW anomaly, Require upgrade, Resolve ticket, Closed, <EOS>",6
+Case 504,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 506,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 507,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 520,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Resolve ticket, Closed, <EOS>",5
+Case 523,"<BOS>, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",4
+Case 525,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Wait, Wait, <EOS>",5
+Case 527,"<BOS>, Assign seriousness, Wait, Assign seriousness, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",7
+Case 529,"<BOS>, Assign seriousness, Wait, Wait, Resolve ticket, Closed, <EOS>",5
+Case 530,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Wait, Resolve ticket, Closed, <EOS>",7
+Case 532,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",7
+Case 533,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 553,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 554,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 557,"<BOS>, Take in charge ticket, Resolve ticket, Closed, <EOS>",3
+Case 558,"<BOS>, Assign seriousness, Take in charge ticket, Take in charge ticket, Resolve ticket, Closed, <EOS>",5
+Case 559,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 566,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",7
+Case 575,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 593,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 594,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 595,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 603,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Resolve ticket, Closed, <EOS>",5
+Case 606,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 622,"<BOS>, Assign seriousness, Take in charge ticket, Create SW anomaly, Resolve ticket, Closed, <EOS>",5
+Case 624,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 626,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 630,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 631,"<BOS>, Take in charge ticket, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 638,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",7
+Case 639,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 645,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 656,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Resolve ticket, Closed, <EOS>",6
+Case 664,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 676,"<BOS>, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",4
+Case 679,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 685,"<BOS>, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",4
+Case 691,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 696,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 701,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 708,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 728,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 732,"<BOS>, Assign seriousness, Create SW anomaly, Take in charge ticket, Create SW anomaly, Require upgrade, VERIFIED, DUPLICATE, Resolve ticket, Closed, <EOS>",9
+Case 747,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 755,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 757,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Wait, Resolve ticket, Closed, <EOS>",6
+Case 769,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 775,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 780,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 782,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 805,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 807,"<BOS>, Assign seriousness, Require upgrade, Resolve ticket, Closed, <EOS>",4
+Case 809,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 821,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 824,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 825,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 826,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 829,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 831,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 839,"<BOS>, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",4
+Case 841,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 845,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 849,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 856,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 868,"<BOS>, Assign seriousness, Take in charge ticket, Create SW anomaly, Resolve ticket, Closed, <EOS>",5
+Case 875,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 876,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 881,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 894,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",6
+Case 901,"<BOS>, Assign seriousness, Resolve ticket, Resolve ticket, Closed, <EOS>",4
+Case 906,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 910,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 911,"<BOS>, Assign seriousness, Take in charge ticket, Take in charge ticket, Resolve ticket, Closed, <EOS>",5
+Case 930,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 939,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",6
+Case 949,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 951,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 954,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 959,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 961,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 962,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 963,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 964,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 979,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 980,"<BOS>, Assign seriousness, Assign seriousness, Resolve ticket, Closed, <EOS>",4
+Case 984,"<BOS>, Take in charge ticket, Resolve ticket, Closed, <EOS>",3
+Case 986,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 988,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 989,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 998,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 999,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1001,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1007,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1010,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 1017,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Resolve ticket, Closed, <EOS>",6
+Case 1019,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1023,"<BOS>, Assign seriousness, Resolve ticket, Resolve ticket, Closed, <EOS>",4
+Case 1026,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 1027,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1043,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1054,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1057,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Wait, Resolve ticket, Closed, <EOS>",6
+Case 1070,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",7
+Case 1075,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1079,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",6
+Case 1087,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Take in charge ticket, Resolve ticket, Closed, <EOS>",7
+Case 1088,"<BOS>, Assign seriousness, Resolve ticket, Resolve ticket, Closed, <EOS>",4
+Case 1096,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1101,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1102,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Resolve ticket, Closed, <EOS>",5
+Case 1104,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1109,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1110,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1111,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 1112,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",6
+Case 1113,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1122,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1124,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1129,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 1142,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Require upgrade, Wait, Resolve ticket, Closed, <EOS>",7
+Case 1144,"<BOS>, Assign seriousness, Resolve ticket, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",6
+Case 1145,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1156,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1159,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1164,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1176,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1179,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1185,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1193,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1210,"<BOS>, Assign seriousness, Wait, Resolve ticket, Closed, <EOS>",4
+Case 1221,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1235,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",6
+Case 1238,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Require upgrade, Resolve ticket, Closed, <EOS>",6
+Case 1239,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1246,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1249,"<BOS>, Insert ticket, Wait, Wait, Wait, Wait, <EOS>",5
+Case 1250,"<BOS>, Take in charge ticket, Wait, Resolve ticket, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",7
+Case 1254,"<BOS>, Assign seriousness, Assign seriousness, Wait, Wait, Resolve ticket, Closed, <EOS>",6
+Case 1261,"<BOS>, Take in charge ticket, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1269,"<BOS>, Assign seriousness, Take in charge ticket, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 1272,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1275,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1290,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1292,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1299,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1301,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1303,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 1304,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1305,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1309,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 1313,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1314,"<BOS>, Assign seriousness, Take in charge ticket, Create SW anomaly, Resolve ticket, Closed, <EOS>",5
+Case 1315,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1318,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 1319,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1323,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1327,"<BOS>, Assign seriousness, Wait, Resolve ticket, Closed, <EOS>",4
+Case 1330,"<BOS>, Assign seriousness, Resolve ticket, Resolve ticket, Closed, <EOS>",4
+Case 1332,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1338,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 1356,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1358,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1359,"<BOS>, Insert ticket, Wait, Wait, <EOS>",3
+Case 1364,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Require upgrade, Require upgrade, Resolve ticket, Closed, <EOS>",7
+Case 1366,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1371,"<BOS>, Assign seriousness, Wait, Resolve ticket, Resolve ticket, Closed, <EOS>",5
+Case 1375,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1384,"<BOS>, Assign seriousness, Resolve ticket, Resolve ticket, Closed, <EOS>",4
+Case 1386,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Resolve ticket, Closed, <EOS>",5
+Case 1387,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1388,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Require upgrade, Resolve ticket, Closed, <EOS>",6
+Case 1393,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 1396,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1397,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1398,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1407,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",7
+Case 1409,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1420,"<BOS>, Assign seriousness, Take in charge ticket, Schedule intervention, Resolve ticket, Closed, <EOS>",5
+Case 1432,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1433,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1441,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1445,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1449,"<BOS>, Assign seriousness, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 1450,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1451,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Resolve ticket, Closed, <EOS>",6
+Case 1457,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1460,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",7
+Case 1464,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1465,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1466,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1471,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 1478,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",8
+Case 1484,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1487,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1495,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Require upgrade, Resolve ticket, Closed, <EOS>",6
+Case 1500,"<BOS>, Assign seriousness, Resolve ticket, Resolve ticket, Closed, <EOS>",4
+Case 1501,"<BOS>, Take in charge ticket, Resolve ticket, Resolve ticket, Closed, <EOS>",4
+Case 1506,"<BOS>, Assign seriousness, Wait, Wait, Take in charge ticket, Resolve ticket, Resolve ticket, Closed, <EOS>",7
+Case 1507,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1509,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1510,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1519,"<BOS>, Assign seriousness, Resolve ticket, Resolve ticket, Closed, <EOS>",4
+Case 1535,"<BOS>, Assign seriousness, Assign seriousness, Assign seriousness, Resolve ticket, Closed, <EOS>",5
+Case 1543,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1553,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1562,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1570,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1571,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Wait, Wait, Wait, <EOS>",7
+Case 1574,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1577,"<BOS>, Insert ticket, Assign seriousness, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 1580,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1587,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1603,"<BOS>, Assign seriousness, Resolve ticket, Resolve ticket, Closed, <EOS>",4
+Case 1604,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1605,"<BOS>, Assign seriousness, Take in charge ticket, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 1609,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1610,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1615,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1650,"<BOS>, Assign seriousness, Create SW anomaly, Create SW anomaly, Resolve SW anomaly, Resolve SW anomaly, Require upgrade, Resolve ticket, Closed, <EOS>",8
+Case 1655,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1658,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 1663,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 1664,"<BOS>, Take in charge ticket, Resolve ticket, Closed, <EOS>",3
+Case 1671,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1674,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1675,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1679,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1681,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1682,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1691,"<BOS>, Insert ticket, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 1697,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1704,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1709,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1711,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1718,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1723,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1730,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1735,"<BOS>, Assign seriousness, Require upgrade, Resolve ticket, Resolve ticket, Closed, <EOS>",5
+Case 1746,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1754,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1760,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Take in charge ticket, Wait, Take in charge ticket, Resolve ticket, Closed, <EOS>",8
+Case 1761,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1764,"<BOS>, Assign seriousness, Require upgrade, Resolve ticket, Resolve ticket, Closed, <EOS>",5
+Case 1771,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1772,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1776,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1777,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1787,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Resolve ticket, Closed, <EOS>",7
+Case 1788,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1791,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1792,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1795,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1799,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 1812,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1813,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1814,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1815,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1817,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1823,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1826,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1828,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1831,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1843,"<BOS>, Assign seriousness, Assign seriousness, Resolve ticket, Closed, <EOS>",4
+Case 1848,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1858,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 1860,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1868,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1869,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1874,"<BOS>, Insert ticket, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 1882,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1884,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1887,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1892,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1894,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1900,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1901,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1903,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1915,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1916,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1918,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 1924,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1946,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1961,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1968,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1975,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 1978,"<BOS>, Assign seriousness, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 1980,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 1987,"<BOS>, Assign seriousness, Wait, Resolve ticket, Closed, <EOS>",4
+Case 2007,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Resolve ticket, Closed, <EOS>",6
+Case 2013,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2021,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2022,"<BOS>, Assign seriousness, Assign seriousness, Assign seriousness, Wait, Resolve ticket, Closed, <EOS>",6
+Case 2035,"<BOS>, Assign seriousness, Take in charge ticket, Create SW anomaly, Require upgrade, Resolve ticket, Closed, <EOS>",6
+Case 2037,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 2050,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2059,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2062,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2068,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2074,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2081,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 2083,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2092,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2093,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2097,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2103,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2104,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 2105,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2108,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2112,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2117,"<BOS>, Assign seriousness, Wait, Wait, Resolve ticket, Take in charge ticket, Resolve ticket, Resolve ticket, Closed, <EOS>",8
+Case 2121,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2123,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Resolve ticket, Resolve ticket, Closed, <EOS>",6
+Case 2125,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Require upgrade, <EOS>",4
+Case 2126,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2134,"<BOS>, Assign seriousness, Wait, Take in charge ticket, Resolve ticket, Closed, <EOS>",5
+Case 2141,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2142,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2143,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 2152,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2156,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2157,"<BOS>, Assign seriousness, Resolve ticket, Resolve ticket, Closed, <EOS>",4
+Case 2163,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2167,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2168,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",6
+Case 2172,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2176,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2177,"<BOS>, Assign seriousness, Wait, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2183,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2187,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2191,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2197,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2201,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2203,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2210,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2211,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2215,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2219,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 2220,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2227,"<BOS>, Assign seriousness, Resolve ticket, Resolve ticket, Closed, <EOS>",4
+Case 2228,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2229,"<BOS>, Assign seriousness, Wait, Resolve ticket, Closed, <EOS>",4
+Case 2232,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 2236,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2239,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Resolve ticket, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",8
+Case 2245,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2253,"<BOS>, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",4
+Case 2256,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 2267,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2268,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2279,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2285,"<BOS>, Assign seriousness, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 2290,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2296,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2300,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Require upgrade, Create SW anomaly, Require upgrade, <EOS>",6
+Case 2302,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2308,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2315,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2322,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2328,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2330,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2335,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2346,"<BOS>, Insert ticket, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 2348,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2356,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",6
+Case 2362,"<BOS>, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",4
+Case 2367,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2368,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Resolve ticket, Take in charge ticket, Resolve ticket, Resolve ticket, Resolve ticket, Require upgrade, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",14
+Case 2375,"<BOS>, Assign seriousness, Assign seriousness, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 2380,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 2381,"<BOS>, Assign seriousness, Assign seriousness, Assign seriousness, Resolve ticket, Resolve ticket, Closed, <EOS>",6
+Case 2390,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2391,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2398,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2399,"<BOS>, Assign seriousness, Take in charge ticket, Take in charge ticket, Resolve ticket, Closed, <EOS>",5
+Case 2403,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2417,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Require upgrade, Resolve ticket, Closed, <EOS>",6
+Case 2431,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2432,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2436,"<BOS>, Assign seriousness, Resolve ticket, Closed, Take in charge ticket, <EOS>",4
+Case 2447,"<BOS>, Assign seriousness, Take in charge ticket, Take in charge ticket, Resolve ticket, Closed, <EOS>",5
+Case 2448,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2451,"<BOS>, Assign seriousness, Take in charge ticket, Create SW anomaly, Require upgrade, Require upgrade, Resolve ticket, <EOS>",6
+Case 2452,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2455,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2458,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2465,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2466,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Require upgrade, Resolve ticket, Closed, <EOS>",6
+Case 2473,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",7
+Case 2474,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2476,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 2481,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 2490,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 2492,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2498,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2499,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2504,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2508,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2512,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Resolve ticket, Closed, <EOS>",6
+Case 2514,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",6
+Case 2522,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Resolve ticket, Closed, <EOS>",6
+Case 2530,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2534,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2541,"<BOS>, Take in charge ticket, Resolve ticket, Closed, <EOS>",3
+Case 2550,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Resolve ticket, Closed, <EOS>",7
+Case 2555,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2558,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2569,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2571,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2577,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2581,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 2585,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2591,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2593,"<BOS>, Assign seriousness, Require upgrade, Resolve ticket, Closed, <EOS>",4
+Case 2596,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2598,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2599,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2603,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2607,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2609,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2611,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2613,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Wait, Resolve ticket, Resolve ticket, Closed, <EOS>",8
+Case 2614,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2616,"<BOS>, Assign seriousness, Wait, Resolve ticket, Closed, <EOS>",4
+Case 2620,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 2622,"<BOS>, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",4
+Case 2625,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2631,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2634,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2643,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 2659,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Take in charge ticket, Resolve ticket, Closed, <EOS>",7
+Case 2665,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2666,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",7
+Case 2667,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",9
+Case 2668,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",6
+Case 2674,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 2676,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2681,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2686,"<BOS>, Take in charge ticket, Resolve ticket, Closed, <EOS>",3
+Case 2700,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2713,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2714,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2716,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2720,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 2721,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2734,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2741,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2765,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",6
+Case 2770,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2774,"<BOS>, Assign seriousness, Resolve ticket, Resolve ticket, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 2776,"<BOS>, Take in charge ticket, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 2777,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2788,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2791,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2797,"<BOS>, Take in charge ticket, Resolve ticket, Closed, <EOS>",3
+Case 2814,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2826,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2834,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2839,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2847,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2848,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2849,"<BOS>, Assign seriousness, Resolve ticket, Resolve ticket, Closed, <EOS>",4
+Case 2851,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2854,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2860,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2866,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2873,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2875,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2881,"<BOS>, Assign seriousness, Require upgrade, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 2891,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2897,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 2905,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2908,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2910,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2918,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 2931,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Require upgrade, Resolve ticket, Resolve ticket, Closed, <EOS>",7
+Case 2932,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2934,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2949,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2956,"<BOS>, Assign seriousness, Wait, Resolve ticket, Closed, <EOS>",4
+Case 2962,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2964,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2966,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2968,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 2970,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Wait, Resolve ticket, Closed, <EOS>",6
+Case 2971,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 2975,"<BOS>, Assign seriousness, Wait, Assign seriousness, Take in charge ticket, Wait, Wait, Take in charge ticket, Resolve ticket, Closed, <EOS>",9
+Case 2981,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Require upgrade, Require upgrade, Resolve ticket, Closed, <EOS>",7
+Case 2984,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Resolve ticket, Closed, <EOS>",5
+Case 2988,"<BOS>, Assign seriousness, Resolve ticket, Resolve ticket, Closed, <EOS>",4
+Case 2992,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3002,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3008,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3009,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 3010,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3013,"<BOS>, Assign seriousness, Take in charge ticket, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 3015,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 3016,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",5
+Case 3021,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3027,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3034,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3035,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3037,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3038,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",7
+Case 3043,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3044,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3046,"<BOS>, Assign seriousness, Wait, Resolve ticket, Closed, <EOS>",4
+Case 3056,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3058,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Resolve ticket, Closed, <EOS>",6
+Case 3059,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 3061,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 3071,"<BOS>, Assign seriousness, Take in charge ticket, Create SW anomaly, Require upgrade, Resolve ticket, Closed, <EOS>",6
+Case 3073,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3077,"<BOS>, Assign seriousness, Require upgrade, Resolve ticket, Closed, <EOS>",4
+Case 3078,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3082,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 3083,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3086,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3095,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3103,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 3112,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3113,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",8
+Case 3118,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Create SW anomaly, Resolve ticket, Closed, <EOS>",7
+Case 3121,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",7
+Case 3126,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3128,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3139,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 3142,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3145,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3148,"<BOS>, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",4
+Case 3172,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3176,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Wait, Resolve ticket, Closed, <EOS>",6
+Case 3180,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3182,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3184,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3186,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3188,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3192,"<BOS>, Assign seriousness, Take in charge ticket, Create SW anomaly, Resolve ticket, Closed, <EOS>",5
+Case 3212,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3214,"<BOS>, Assign seriousness, Take in charge ticket, Create SW anomaly, Resolve ticket, Closed, <EOS>",5
+Case 3222,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3226,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 3229,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3231,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3233,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3239,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 3240,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3249,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Require upgrade, Take in charge ticket, Resolve ticket, Resolve ticket, Closed, <EOS>",8
+Case 3251,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3253,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3254,"<BOS>, Assign seriousness, Take in charge ticket, Wait, <EOS>",3
+Case 3260,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3262,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3273,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3276,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 3288,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Resolve ticket, Closed, <EOS>",6
+Case 3289,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3294,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 3314,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3315,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3323,"<BOS>, Assign seriousness, Take in charge ticket, Create SW anomaly, Require upgrade, Require upgrade, Resolve ticket, <EOS>",6
+Case 3324,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3331,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3334,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3336,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3338,"<BOS>, Assign seriousness, Require upgrade, Resolve ticket, Closed, <EOS>",4
+Case 3341,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3344,"<BOS>, Assign seriousness, Resolve ticket, Resolve ticket, Take in charge ticket, Resolve ticket, Resolve ticket, Closed, <EOS>",7
+Case 3349,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3351,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Resolve ticket, Closed, <EOS>",5
+Case 3357,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3358,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 3360,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3362,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3372,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3373,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3376,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3382,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3398,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3403,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3409,"<BOS>, Assign seriousness, Take in charge ticket, Create SW anomaly, Resolve SW anomaly, Resolve SW anomaly, Require upgrade, <EOS>",6
+Case 3413,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3416,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 3418,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 3419,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3426,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3428,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3436,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Wait, Wait, Resolve ticket, Closed, <EOS>",8
+Case 3439,"<BOS>, Take in charge ticket, Resolve ticket, Take in charge ticket, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",8
+Case 3440,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3442,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3443,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, <EOS>",4
+Case 3444,"<BOS>, Assign seriousness, Create SW anomaly, Create SW anomaly, Resolve SW anomaly, Resolve SW anomaly, Require upgrade, Resolve ticket, Closed, <EOS>",8
+Case 3448,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3449,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 3454,"<BOS>, Assign seriousness, Take in charge ticket, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 3462,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3465,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3475,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3498,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3511,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3516,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 3517,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3529,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3530,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3532,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3535,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3537,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3539,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3542,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3543,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3546,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3551,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3552,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3562,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Take in charge ticket, Resolve ticket, Closed, <EOS>",7
+Case 3563,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3565,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3567,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3569,"<BOS>, Take in charge ticket, Resolve ticket, Closed, <EOS>",3
+Case 3582,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3583,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3592,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3599,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3600,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3601,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3613,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 3614,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3634,"<BOS>, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",4
+Case 3638,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3641,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3643,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3645,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 3653,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3654,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3656,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",6
+Case 3657,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3662,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",6
+Case 3663,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3666,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3669,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Require upgrade, Require upgrade, Resolve ticket, Closed, <EOS>",9
+Case 3670,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3673,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",7
+Case 3674,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3676,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Resolve ticket, Closed, <EOS>",5
+Case 3678,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3688,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",5
+Case 3692,"<BOS>, Assign seriousness, Resolve ticket, Take in charge ticket, Resolve ticket, Closed, <EOS>",5
+Case 3696,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3705,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",7
+Case 3708,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3738,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3742,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3745,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3766,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3770,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3775,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3776,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 3787,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 3798,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3802,"<BOS>, Insert ticket, Assign seriousness, Resolve ticket, Closed, <EOS>",4
+Case 3818,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3819,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3822,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3832,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Take in charge ticket, Resolve ticket, Closed, <EOS>",8
+Case 3844,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3857,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3864,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3865,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 3877,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3880,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 3884,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 3885,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3888,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 3890,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3896,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3898,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3899,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3905,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3912,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3913,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 3928,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3930,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3933,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3943,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 3946,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3957,"<BOS>, Assign seriousness, Take in charge ticket, Take in charge ticket, Resolve ticket, Closed, <EOS>",5
+Case 3963,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Require upgrade, Resolve ticket, Resolve ticket, Closed, <EOS>",7
+Case 3974,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3976,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3983,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 3992,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 4004,"<BOS>, Take in charge ticket, Resolve ticket, Resolve ticket, Closed, <EOS>",4
+Case 4006,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",7
+Case 4009,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4017,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4026,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Create SW anomaly, Require upgrade, Resolve ticket, Closed, <EOS>",7
+Case 4030,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4031,"<BOS>, Assign seriousness, Resolve ticket, Resolve ticket, Closed, <EOS>",4
+Case 4032,"<BOS>, Assign seriousness, Wait, Resolve ticket, Closed, <EOS>",4
+Case 4037,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4048,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4054,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4067,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4068,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4069,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4073,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4074,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4082,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 4084,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4107,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",6
+Case 4127,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4145,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4147,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4149,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4154,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4156,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4160,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4161,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4162,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4165,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 4172,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4183,"<BOS>, Assign seriousness, Require upgrade, Resolve ticket, Closed, <EOS>",4
+Case 4185,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 4187,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Wait, <EOS>",5
+Case 4194,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4197,"<BOS>, Assign seriousness, Assign seriousness, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 4206,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4212,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4241,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4248,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 4255,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Resolve ticket, Closed, <EOS>",5
+Case 4257,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4259,"<BOS>, Assign seriousness, Take in charge ticket, Take in charge ticket, Resolve ticket, Closed, <EOS>",5
+Case 4268,"<BOS>, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",4
+Case 4269,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4282,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4300,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",6
+Case 4301,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4324,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4325,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4326,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4332,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4337,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4338,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",7
+Case 4348,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 4351,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4352,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4353,"<BOS>, Assign seriousness, Take in charge ticket, Take in charge ticket, Wait, Wait, Resolve ticket, Closed, <EOS>",7
+Case 4354,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, <EOS>",4
+Case 4355,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4359,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4361,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 4365,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4369,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4370,"<BOS>, Insert ticket, Wait, Wait, <EOS>",3
+Case 4371,"<BOS>, Assign seriousness, Resolve ticket, Resolve ticket, Closed, <EOS>",4
+Case 4383,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4385,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",5
+Case 4389,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Closed, <EOS>",5
+Case 4394,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4396,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4398,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",7
+Case 4407,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4410,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 4415,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4417,"<BOS>, Assign seriousness, Wait, Resolve ticket, Resolve ticket, Closed, <EOS>",5
+Case 4419,"<BOS>, Assign seriousness, Wait, Resolve ticket, Closed, <EOS>",4
+Case 4421,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4422,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4423,"<BOS>, Assign seriousness, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",5
+Case 4424,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4426,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4431,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4456,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4463,"<BOS>, Assign seriousness, Take in charge ticket, Create SW anomaly, Create SW anomaly, Resolve SW anomaly, Resolve SW anomaly, Require upgrade, Create SW anomaly, Resolve ticket, <EOS>",9
+Case 4465,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4469,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4478,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Take in charge ticket, Resolve ticket, Closed, <EOS>",6
+Case 4485,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4487,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4501,"<BOS>, Take in charge ticket, Wait, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",6
+Case 4506,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4511,"<BOS>, Assign seriousness, Take in charge ticket, Require upgrade, Resolve ticket, Resolve ticket, Closed, <EOS>",6
+Case 4530,"<BOS>, Assign seriousness, Assign seriousness, Resolve ticket, Closed, <EOS>",4
+Case 4532,"<BOS>, Assign seriousness, Resolve ticket, Closed, <EOS>",3
+Case 4535,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4537,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, Closed, <EOS>",4
+Case 4544,"<BOS>, Assign seriousness, Take in charge ticket, Resolve ticket, <EOS>",3
+Case 4558,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4563,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
+Case 4575,"<BOS>, Assign seriousness, Take in charge ticket, Wait, Resolve ticket, Closed, <EOS>",5
