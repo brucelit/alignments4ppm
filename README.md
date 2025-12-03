@@ -6,7 +6,7 @@ This repository provides the implementation details and supplementary materials 
 **\dataset** folder contains the event logs used in this study. The event logs were sorted by time and chronologically divided, with the first 80% of the traces used as the training set and the remaining 20% as the test set. 
 
 ## Impelemented approach
-The technique can be used as a standalone tool from the command line. 
+The prediction technique can be used as a standalone tool from the command line. 
 ### Single trace prediction
 To predict the next activity of a prefix <Insert ticket, Assign seriousness, Take in charge ticket>, run the following command:
 ```
@@ -48,9 +48,21 @@ The following table includes all techniques used for evaluation.
 |ASTON|Suffix|[Paper](), [Code]()|
 |DOGE|Suffix|[Paper](), [Code]()|
 
-In **\other_technqiues** folder, we upload the code support to run other techniques.
+We upload the code support to run other prediction techniques in the following folders:
+* next_activity_ImagePP_Miner
+* next_activity_LSTM
+* next_activity_ProcesspredictR
+* next_activity_ProcessTransformer
+* next_activity_SEPHIGRAPH
+* suffix_ASTON
+* suffix_CRTP_LSTM
+* suffix_DOGE
+* suffix_SuTraN
+* suffix_transition_system
 
 ## Run the experiments
+Note that we sort the traces in event log by time and chronologically divided, with the first 80% of the traces used as the training set and the remaining 20% as the test set. We keep the same hyperparamters settings as original paper.
+
 ### ProcesspredictR
 To run next activity prediction using ProcesspredictR, first install R and RStudio following the [tutorial](https://rstudio-education.github.io/hopr/starting.html). Then, install BupaR to use processpredictR following the [tutorial](https://bupaverse.github.io/docs/install.html). The code below is adapted based on prediction workflow from [Bupar](https://bupaverse.github.io/docs/predict_workflow.html). To run the event log split and further experiments in RStudio, change 'bpi17_offer.xes' into your event log for function read_xes in line 6:
 ```
