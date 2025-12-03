@@ -1,11 +1,43 @@
 # Explainable Predictive Process Monitoring with Stochastic Alignments
-## Introduction
 This repository provides the implementation details and supplementary materials to support the findings presented in the paper "Explainable Predictive Process Monitoring with Stochastic Alignments".
 
-## Dataset
-**\dataset** folder contains the event logs used in this study. The event logs were sorted by time and chronologically divided, with the first 80% of the traces used as the training set and the remaining 20% as the test set. 
+# Part 1. Stochastic Alignments
+We treat the stochastic language induced by historical process executions as the underlying representation of the proces. The stochastic alignments are computed using a stochastic cost function controlled by a balance parameter α (range from 0 to 1). Once the an alignment is computed, we identify the next activity and suffix using projection. 
 
-## Impelemented approach
+The key intuition is that alignments classify discrepancies between observed and historical behavior: log moves are identified as deviations from the expected process, while model moves represent missing behavior that should have occurred but did not in the prefix. The position of the last synchronous move corresponds to the last point where the observed prefix and the trace agree. From this anchor point, the subsequent model move represents the next predicted activity, and the remaining model moves thereafter are projected onto a sequence of activities that collectively form the suffix.
+
+We first present the results of best balance parameter α for the event logs used in evaluation. This is computed by iteratively compute best accuracy or DLS using α from 0 to 1.
+
+| Event log | Next activity prediction| Suffix prediction |
+|    :----   | :----:   |          :---: |
+|Helpdesk|α=0.73|α=0.73|
+|Sepsis|α=0.78|α=0.93|
+|BPIC12|α=0.98|α=0.98|
+|BPIC13_incident|α=0.71|α=0.71|
+|BPIC13_close|α=0.89|α=0.96|
+|BPIC17_offer|α=0.60|α=0.60|
+|BPIC20_domestic|α=0.64|α=0.48|
+|BPIC20_international|α=0.50|α=0.43|
+|BPIC20_prepaid|α=0.52|α=0.52|
+|BPIC20_request|α=0.61|α=0.50|
+
+## Dataset
+**\dataset** folder contains the event logs used in this study. The event logs were sorted by time and chronologically divided, with the first 80% of the traces used as the training set and the remaining 20% as the test set.  The table below illustrates the characteristics of event logs used in evaluation.
+
+| Log | Events | Cases | Trace variants | Act. | Min/Max/Avg. trace length |
+|-----|--------|-------|----------------|------|---------------------------|
+| BPIC12 | 262,200 | 13,087 | 4,366 | 24 | 3/175/20.04 |
+| BPIC13_Close | 6,660 | 1,487 | 327 | 7 | 1/35/4.48 |
+| BPIC13_Incident | 65,533 | 7,554 | 2,278 | 13 | 1/123/8.68 |
+| BPIC17_Offer | 193,849 | 42,995 | 16 | 8 | 3/5/4.51 |
+| BPIC20_Request | 36,796 | 6,886 | 89 | 19 | 1/20/5.34 |
+| BPIC20_Domestic | 56,437 | 10,500 | 99 | 17 | 1/24/5.37 |
+| BPIC20_Prepaid | 18,246 | 2,099 | 202 | 29 | 1/21/8.69 |
+| BPIC20_International | 72,151 | 6,449 | 753 | 34 | 3/27/11.19 |
+| Helpdesk | 21,348 | 4,580 | 226 | 14 | 2/15/4.66 |
+| Sepsis | 15,214 | 1,050 | 846 | 16 | 3/185/14.49 |
+
+## Run experiments
 The prediction technique can be used as a standalone tool from the command line. 
 ### Single trace prediction
 To predict the next activity of a prefix <Insert ticket, Assign seriousness, Take in charge ticket>, run the following command:
@@ -32,8 +64,8 @@ cargo run prediction presfx ./testlogs/helpdesk_80.xes ./testlogs/helpdesk_20.xe
  ```
 
 
-## Other approaches used during evaluation
-The following table includes all techniques used for evaluation.
+# Part 2. Other Prediction Techniques
+The following table lists all prediction techniques used for evaluation.
 
 | Name | Prediction task | Link |
 |    :----:   | :----:   |          :---: | 
@@ -48,6 +80,7 @@ The following table includes all techniques used for evaluation.
 |ASTON|Suffix|[Paper](), [Code]()|
 |DOGE|Suffix|[Paper](), [Code]()|
 
+Note that we sort the traces in event log by time and chronologically divided, with the first 80% of the traces used as the training set and the remaining 20% as the test set. We keep the same hyperparamters settings as original paper. 
 We upload the code support to run other prediction techniques in the following folders:
 * next_activity_ImagePP_Miner
 * next_activity_LSTM
@@ -60,9 +93,7 @@ We upload the code support to run other prediction techniques in the following f
 * suffix_SuTraN
 * suffix_transition_system
 
-## Run the experiments
-Note that we sort the traces in event log by time and chronologically divided, with the first 80% of the traces used as the training set and the remaining 20% as the test set. We keep the same hyperparamters settings as original paper.
-
+## Run experiments
 ### ProcesspredictR
 To run next activity prediction using ProcesspredictR, first install R and RStudio following the [tutorial](https://rstudio-education.github.io/hopr/starting.html). Then, install BupaR to use processpredictR following the [tutorial](https://bupaverse.github.io/docs/install.html). The code below is adapted based on prediction workflow from [Bupar](https://bupaverse.github.io/docs/predict_workflow.html). To run the event log split and further experiments in RStudio, change 'bpi17_offer.xes' into your event log for function read_xes in line 6:
 ```
@@ -130,3 +161,33 @@ After changing 'bpi17_offer' into the target event log, run the preprocessing as
 python data_processing.py --raw_log_file ./datasets/bpi17_offer/fold0_variation0_bpi17_offer.csv --task next_activity --dir_path ./datasets/bpi17_offer/ --dataset bpi17_offer
 ```
 
+# Part 3. Evaluation results
+The accuracy of next activity prediction is shown in the following table.
+| Log | Our technique | LSTM | ImagePP-Miner| Process-transformer | SEPHIGRAPH | process-predictR |
+|-----|:-:|:-:|:-:|:-:|:-:|:-:|
+| BPIC12 | 0.515 | 0.852| 0.836 | 0.848 | 0.739 | 0.843 |
+| BPIC13_Close | 0.764| 0.576 | 0.244 | 0.584 | 0.395 | 0.673 |
+| BPIC13_Incident | 0.669 | 0.672| 0.352 | 0.638 | 0.487 | 0.701 |
+| BPIC17_Offer | 0.826 | 0.852 | 0.808 | 0.853| 0.739 | 0.853|
+| BPIC20_Domestic | 0.873 | 0.907| 0.907| 0.906 | 0.878 | 0.907|
+| BPIC20_International | 0.759 | 0.898| 0.887 | 0.898| 0.697 | 0.891 |
+| BPIC20_Prepaid | 0.774 | 0.857| 0.838 | 0.856 | 0.699 | 0.850 |
+| BPIC20_Request | 0.874 | 0.891 | 0.894| 0.892 | 0.880 | 0.892 |
+| Helpdesk | 0.713| 0.712 | 0.684 | 0.703 | 0.666 | 0.702 |
+| Sepsis | 0.335 | 0.656| 0.574 | 0.631 | 0.320 | 0.520 |
+| **Average accuracy** | 0.712 | 0.787| 0.712 | 0.782 | 0.650 | 0.783 |
+
+The Damerau-Levenshtein Similarity (DLS) of suffix prediction is shown in the following table.
+| Log | Our technique | Transition system| SuTraN | CRTP-LSTM | ASTON | DOGE|
+|-----|:-:|:-:|:-:|:-:|:-:|:-:|
+| BPIC12 | 0.469 | 0.467 | 0.143 | 0.235 | 0.403 | 0.336 |
+| BPIC13_Close | 0.835 | 0.734 | 0.839 | 0.548 | 0.654 | 0.714 |
+| BPIC13_Incident | 0.664 | 0.564 | 0.451 | 0.633 | 0.667 | 0.650 |
+| BPIC17_Offer | 0.706 | 0.759 | 0.941 | 0.941 | 0.706 | 0.685 |
+| BPIC20_Domestic | 0.929 | 0.928 | 0.957 | 0.949 | 0.892 | 0.858 |
+| BPIC20_International | 0.799 | 0.752 | 0.904 | 0.889 | 0.877 | 0.868 |
+| BPIC20_Prepaid | 0.834 | 0.741 | 0.894 | 0.873 | 0.873 | 0.829 |
+| BPIC20_Request | 0.918 | 0.906 | 0.936 | 0.930 | 0.877 | 0.917 |
+| Helpdesk | 0.789 | 0.856 | 0.881 | 0.880 | 0.830 | 0.855 |
+| Sepsis | 0.213 | 0.175 | 0.297 | 0.419 | 0.316 | 0.410 |
+| **Average DLS** | 0.716 | 0.709 | 0.743 | 0.777 | 0.718 | 0.712 |
