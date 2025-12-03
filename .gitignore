@@ -1,2 +1,16 @@
 Ebi/target/
 Ebi_backup
+/target
+/data
+/.vscode
+/builds
+/python-runtime
+
+# Added by cargo
+#
+# already existing elements were commented out
+
+#/target
+perf.data
+flamegraph.svg
+perf.data.old
