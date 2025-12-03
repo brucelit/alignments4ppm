@@ -13,7 +13,7 @@ use crate::{
     }, ebi_traits::{
         ebi_trait_finite_stochastic_language::EbiTraitFiniteStochasticLanguage,
         ebi_trait_stochastic_semantics::{EbiTraitStochasticSemantics, ToStochasticSemantics},
-    }, math::constant_fraction::ConstFraction, techniques::{predict_next::PredictTrace, predict_next_test_balance::PredictNextActivityTestBalance,
+    }, math::constant_fraction::ConstFraction, techniques::{predict_next_activity::PredictTrace, predict_next_test_balance::PredictNextActivityTestBalance,
         predict_next_f1::PredictF1,
         predict_suffix::PredictSuffix, predict_suffix_test_balance::PredictSuffixTestBalance}
 };
@@ -120,7 +120,6 @@ pub const EBI_PREDICTION_NEXT_ACTIVITY: EbiCommand = EbiCommand::Command {
         let accuracy = semantics
             .predict_next_activity(&test_log)
             .context("cannot make prediction for the log")?;
-        println!("Overall accuracy: {}", accuracy);
         let since_the_epoch = start
         .duration_since(UNIX_EPOCH)
         .expect("time should go forward");

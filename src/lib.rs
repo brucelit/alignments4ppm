@@ -165,7 +165,7 @@ pub mod techniques {
     pub mod escaping_edges_precision;
     pub mod executions;
     pub mod explain_trace;
-    pub mod predict_next;
+    pub mod predict_next_activity;
     pub mod predict_next_f1;
     pub mod predict_next_test_balance;
     pub mod predict_suffix;

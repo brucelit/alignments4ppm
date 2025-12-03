@@ -1,5 +1,5 @@
 use crate::{
-    ebi_framework::displayable::Displayable, ebi_traits::{ebi_trait_finite_stochastic_language::EbiTraitFiniteStochasticLanguage, ebi_trait_stochastic_semantics::EbiTraitStochasticSemantics}, semantics::semantics::Semantics, stochastic_semantics::stochastic_semantics::StochasticSemantics, techniques::{astar_for_prediction, predict_next::get_model_trace},
+    ebi_framework::displayable::Displayable, ebi_traits::{ebi_trait_finite_stochastic_language::EbiTraitFiniteStochasticLanguage, ebi_trait_stochastic_semantics::EbiTraitStochasticSemantics}, semantics::semantics::Semantics, stochastic_semantics::stochastic_semantics::StochasticSemantics, techniques::{astar_for_prediction, predict_next_activity::get_model_trace},
 };
 use anyhow::{Result, anyhow};
 use ebi_arithmetic::{MaybeExact, Zero, fraction::{fraction::Fraction}};
