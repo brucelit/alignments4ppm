@@ -83,17 +83,6 @@ The following table lists all prediction techniques used for evaluation.
 |DOGE|Suffix|[Paper](), [Code]()|
 
 Note that we sort the traces in event log by time and chronologically divided, with the first 80% of the traces used as the training set and the remaining 20% as the test set. We keep the same hyperparamters settings as original paper. 
-We upload the code support to run other prediction techniques in the following folders:
-* next_activity_ImagePP_Miner
-* next_activity_LSTM
-* next_activity_ProcesspredictR
-* next_activity_ProcessTransformer
-* next_activity_SEPHIGRAPH
-* suffix_ASTON
-* suffix_CRTP_LSTM
-* suffix_DOGE
-* suffix_SuTraN
-* suffix_transition_system
 
 ## Run experiments
 ### ProcesspredictR
@@ -125,43 +114,18 @@ predictions <- model %>% predict(test_data = test_df, output = "append")
 # Returns loss and metrics
 model %>% evaluate(test_df)
 ```
-
-### LSTM
-Run the experiments with the following command:
+## Transition system
+For transition system-based suffix prediction, run the experiments with the following command:
 ```
-python train.py --fold_dataset ../data/[FOLD_DATASET] --full_dataset ../data/[FULL_DATASET] --train --test
+ python3 beam_search.py --training_log training_log --test_log test_log
 ```
-For instance,:
-```
-python train.py --fold_dataset ../data/fold0_variation0_bpi17_offer.csv --full_dataset ../data/bpi17_offer.csv --test --train
-
-```
-
-
-### ImagePP-Miner
-Run the experiments with the following command:
-```
-python run.py --full_dataset dataset/[FULL_DATASET].csv --fold_dataset dataset/[FOLD_DATASET].csv --train --test
-```
-
 For instance:
 ```
-python run.py --full_dataset dataset/bpi17_offer.csv --fold_dataset dataset/fold0_variation0_bpi17_offer.csv --train --test
+ python3 beam_search.py --training_log data/domestic_80.csv --test_log data/domestic_20.csv 
 ```
 
-### Processtransformer
-First, create the environment as follows:
-```
-conda create -n "zarahah" python=3.9
-conda activate zarahah
-conda install -c anaconda tensorflow-gpu=2.4.1
-python -m pip install pandas==1.3.4 scikit-learn==1.0.1
-```
-
-After changing 'bpi17_offer' into the target event log, run the preprocessing as follows:
-```
-python data_processing.py --raw_log_file ./datasets/bpi17_offer/fold0_variation0_bpi17_offer.csv --task next_activity --dir_path ./datasets/bpi17_offer/ --dataset bpi17_offer
-```
+# Other techniques
+For other prediction techniques, we refer you to the code in their original code repositories.
 
 # Part 3. Evaluation results
 The accuracy of next activity prediction is shown in the following table.
