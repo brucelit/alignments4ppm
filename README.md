@@ -4,7 +4,7 @@ This repository provides the implementation details and supplementary materials 
 # Part 1. Stochastic Alignments
 We treat the stochastic language induced by historical process executions as the underlying representation of the proces. The stochastic alignments are computed using a stochastic cost function controlled by a balance parameter α (range from 0 to 1). Once the an alignment is computed, we identify the next activity and suffix using projection. The following figure illustrate the overview of our technique.
 
-![image info](./pictures/overview.png){width=700px}
+![image info](./pictures/overview.png)
 
 The key intuition is that alignments classify discrepancies between observed and historical behavior: log moves are identified as deviations from the expected process, while model moves represent missing behavior that should have occurred but did not in the prefix. The position of the last synchronous move corresponds to the last point where the observed prefix and the trace agree. From this anchor point, the subsequent model move represents the next predicted activity, and the remaining model moves thereafter are projected onto a sequence of activities that collectively form the suffix.
 
