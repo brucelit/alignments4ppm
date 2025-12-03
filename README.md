@@ -2,30 +2,32 @@
 This repository provides the implementation details and supplementary materials to support the findings presented in the paper "Explainable Predictive Process Monitoring with Stochastic Alignments".
 
 # Part 1. Stochastic Alignments
-We treat the stochastic language induced by historical process executions as the underlying representation of the proces. The stochastic alignments are computed using a stochastic cost function controlled by a balance parameter α (range from 0 to 1). Once the an alignment is computed, we identify the next activity and suffix using projection. 
+We treat the stochastic language induced by historical process executions as the underlying representation of the proces. The stochastic alignments are computed using a stochastic cost function controlled by a balance parameter α (range from 0 to 1). Once the an alignment is computed, we identify the next activity and suffix using projection. The following figure illustrate the overview of our technique.
+
+![image info](./pictures/overview.png){width=700px}
 
 The key intuition is that alignments classify discrepancies between observed and historical behavior: log moves are identified as deviations from the expected process, while model moves represent missing behavior that should have occurred but did not in the prefix. The position of the last synchronous move corresponds to the last point where the observed prefix and the trace agree. From this anchor point, the subsequent model move represents the next predicted activity, and the remaining model moves thereafter are projected onto a sequence of activities that collectively form the suffix.
 
-We first present the results of best balance parameter α for the event logs used in evaluation. This is computed by iteratively compute best accuracy or DLS using α from 0 to 1.
+We first present the results of best balance parameter α for the event logs used in evaluation. This is computed by iteratively compute best accuracy or Damerau-Levenshtein Similarity (DLS) using α from 0 to 1.
 
-| Event log | Next activity prediction| Suffix prediction |
-|    :----   | :----:   |          :---: |
-|Helpdesk|α=0.73|α=0.73|
-|Sepsis|α=0.78|α=0.93|
-|BPIC12|α=0.98|α=0.98|
-|BPIC13_incident|α=0.71|α=0.71|
-|BPIC13_close|α=0.89|α=0.96|
-|BPIC17_offer|α=0.60|α=0.60|
-|BPIC20_domestic|α=0.64|α=0.48|
-|BPIC20_international|α=0.50|α=0.43|
-|BPIC20_prepaid|α=0.52|α=0.52|
-|BPIC20_request|α=0.61|α=0.50|
+| Event log | Next activity prediction| Suffix prediction | Time to determine α (seconds)|
+|    :----   | :----:   |          :---: | ---: |
+|Helpdesk|α=0.73|α=0.73|4.76|
+|Sepsis|α=0.78|α=0.93|247.31|
+|BPIC12|α=0.98|α=0.98|1|1230.19|
+|BPIC13_close|α=0.89|α=0.96|2.43|
+|BPIC13_incident|α=0.71|α=0.71|16.68|
+|BPIC17_offer|α=0.60|α=0.60|0.46|
+|BPIC20_domestic|α=0.64|α=0.48|1.26|
+|BPIC20_international|α=0.50|α=0.43|69.27|
+|BPIC20_prepaid|α=0.52|α=0.52|16.67|
+|BPIC20_request|α=0.61|α=0.50|1.43|
 
 ## Dataset
 **\dataset** folder contains the event logs used in this study. The event logs were sorted by time and chronologically divided, with the first 80% of the traces used as the training set and the remaining 20% as the test set.  The table below illustrates the characteristics of event logs used in evaluation.
 
-| Log | Events | Cases | Trace variants | Act. | Min/Max/Avg. trace length |
-|-----|--------|-------|----------------|------|---------------------------|
+| Event log | Events | Cases | Trace variants | Activities | Min/Max/Avg. trace length |
+|:-----|--------:|-------:|----------------:|------:|---------------------------|
 | BPIC12 | 262,200 | 13,087 | 4,366 | 24 | 3/175/20.04 |
 | BPIC13_Close | 6,660 | 1,487 | 327 | 7 | 1/35/4.48 |
 | BPIC13_Incident | 65,533 | 7,554 | 2,278 | 13 | 1/123/8.68 |
@@ -68,7 +70,7 @@ cargo run prediction presfx ./testlogs/helpdesk_80.xes ./testlogs/helpdesk_20.xe
 The following table lists all prediction techniques used for evaluation.
 
 | Name | Prediction task | Link |
-|    :----:   | :----:   |          :---: | 
+|    :----   | :----   |          :---: | 
 | LSTM   |  Next activity|  [Paper](https://link.springer.com/chapter/10.1007/978-3-319-59536-8_30), [Code](https://github.com/verenich/ProcessSequencePrediction?tab=readme-ov-file)  |
 | ImagePP-Miner| Next activity|[Paper](https://ieeexplore.ieee.org/document/8786066), [Code](https://github.com/vinspdb/ImagePPMiner)|
 |ProcessTransformer | Next activity|[Paper](https://arxiv.org/abs/2104.00721), [Code](https://github.com/Zaharah/processtransformer.) |      
@@ -163,8 +165,8 @@ python data_processing.py --raw_log_file ./datasets/bpi17_offer/fold0_variation0
 
 # Part 3. Evaluation results
 The accuracy of next activity prediction is shown in the following table.
-| Log | Our technique | LSTM | ImagePP-Miner| Process-transformer | SEPHIGRAPH | process-predictR |
-|-----|:-:|:-:|:-:|:-:|:-:|:-:|
+| Event log | Our technique | LSTM | ImagePP-Miner| Process-transformer | SEPHIGRAPH | process-predictR |
+|:-----|:-:|:-:|:-:|:-:|:-:|:-:|
 | BPIC12 | 0.515 | 0.852| 0.836 | 0.848 | 0.739 | 0.843 |
 | BPIC13_Close | 0.764| 0.576 | 0.244 | 0.584 | 0.395 | 0.673 |
 | BPIC13_Incident | 0.669 | 0.672| 0.352 | 0.638 | 0.487 | 0.701 |
@@ -178,8 +180,8 @@ The accuracy of next activity prediction is shown in the following table.
 | **Average accuracy** | 0.712 | 0.787| 0.712 | 0.782 | 0.650 | 0.783 |
 
 The Damerau-Levenshtein Similarity (DLS) of suffix prediction is shown in the following table.
-| Log | Our technique | Transition system| SuTraN | CRTP-LSTM | ASTON | DOGE|
-|-----|:-:|:-:|:-:|:-:|:-:|:-:|
+| Event log | Our technique | Transition system| SuTraN | CRTP-LSTM | ASTON | DOGE|
+|:-----|:-:|:-:|:-:|:-:|:-:|:-:|
 | BPIC12 | 0.469 | 0.467 | 0.143 | 0.235 | 0.403 | 0.336 |
 | BPIC13_Close | 0.835 | 0.734 | 0.839 | 0.548 | 0.654 | 0.714 |
 | BPIC13_Incident | 0.664 | 0.564 | 0.451 | 0.633 | 0.667 | 0.650 |
